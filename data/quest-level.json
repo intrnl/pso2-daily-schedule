@@ -1,0 +1,26 @@
+{
+	"start": "2021-02-27T00:00:00.000-07:00",
+	"cycle": 5,
+	"items": [
+		{
+			"schedule": [1],
+			"name": "Chaos, Render of Tranquility"
+		},
+		{
+			"schedule": [2],
+			"name": "Disturbing Whistle of Chaos"
+		},
+		{
+			"schedule": [3],
+			"name": "Menace of the Bewitched Castle"
+		},
+		{
+			"schedule": [4],
+			"name": "The Silence Born of Chaos"
+		},
+		{
+			"schedule": [5],
+			"name": "A Broken World of Twisted Shadows"
+		}
+	]
+}

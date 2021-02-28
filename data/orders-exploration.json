@@ -1,0 +1,453 @@
+{
+	"start": "2021-02-16T00:00:00.000-07:00",
+	"cycle": 16,
+	"items": [
+		{
+			"schedule": [1],
+			"name": "Suppress: Naverian Sylvants",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [1],
+			"name": "Suppress: Garongoes",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [1],
+			"name": "Suppress: Fang Banshee(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [2],
+			"name": "Suppress: Draconians",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [2],
+			"name": "Suppress: Nordeerans",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [2],
+			"name": "Suppress: Vol Dragon(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [3],
+			"name": "Suppress: Automata",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [3],
+			"name": "Suppress: Spardun As",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [3],
+			"name": "Suppress: Gwanadas",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [4],
+			"name": "Suppress: Naverian Sylvants",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [4],
+			"name": "Suppress: King Yedis",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [4],
+			"name": "Suppress: Snow Banshee(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [5],
+			"name": "Suppress: Automata",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [5],
+			"name": "Suppress: Signo Beats",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [5],
+			"name": "Suppress: Big Varder(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [6],
+			"name": "Suppress: Draconians",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [6],
+			"name": "Suppress: Nordeeransas",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [6],
+			"name": "Suppress: Quartz Dragon(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [7],
+			"name": "Suppress: Falspawn",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [7],
+			"name": "Suppress: Cuchronahdas",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [7],
+			"name": "Suppress: Zeshraiders",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [8],
+			"name": "Suppress: Draconians",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [8],
+			"name": "Suppress: Dirandahls",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [8],
+			"name": "Suppress: Dragon X(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [9],
+			"name": "Suppress: Oceanids",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [9],
+			"name": "Suppress: Luda Sorcerers",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [9],
+			"name": "Suppress: Bar Lodoses",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [10],
+			"name": "Suppress: Automata",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [10],
+			"name": "Suppress: Jagd Dingales",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [10],
+			"name": "Suppress: Bryu Ringahdas",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [11],
+			"name": "Suppress: Oceanids",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [11],
+			"name": "Suppress: Vid Giroses",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [11],
+			"name": "Suppress: Biol Medunas",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [12],
+			"name": "Suppress: Nightfallers",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [12],
+			"name": "Suppress: Anshizagris",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [12],
+			"name": "Suppress: Gigur Gunnegams",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [13],
+			"name": "Suppress: Oceanids",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [13],
+			"name": "Suppress: Nept Casadohras",
+			"order": {
+				"amount": 1,
+				"meseta": 18000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [13],
+			"name": "Suppress: Leomaduraads",
+			"order": {
+				"amount": 1,
+				"meseta": 18000,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [14],
+			"name": "Suppress: Nightfallers",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [14],
+			"name": "Suppress: Orogrels",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [14],
+			"name": "Suppress: Gwahl Jigmoldes",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [15],
+			"name": "Suppress: Phantasms",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [15],
+			"name": "Suppress: T-Rexes",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [15],
+			"name": "Suppress: Train Gidran(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		},
+
+		{
+			"schedule": [16],
+			"name": "Suppress: Phantasms",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [16],
+			"name": "Suppress: UFOs",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [16],
+			"name": "Suppress: Vegas lllusia",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 18000
+			}
+		}
+	]
+}

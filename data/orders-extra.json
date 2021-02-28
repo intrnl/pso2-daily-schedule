@@ -1,0 +1,33 @@
+{
+	"start": "2021-02-28T00:00:00.000-07:00",
+	"cycle": 3,
+	"items": [
+		{
+			"schedule": [1],
+			"name": "Circuit: Buster Quest",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 30000
+			}
+		},
+		{
+			"schedule": [2],
+			"name": "Circuit: Ultimate Quest",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 50000
+			}
+		},
+		{
+			"schedule": [3],
+			"name": "Circuit: Urgent Quest",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 70000
+			}
+		}
+	]
+}

@@ -1,0 +1,195 @@
+{
+	"start": "2021-02-19T00:00:00.000-07:00",
+	"cycle": 21,
+	"items": [
+		{
+			"schedule": [1],
+			"name": "Destroy Giant Transforming Automata"
+		},
+		{
+			"schedule": [1],
+			"name": "Seabed Region Ecological Survey"
+		},
+
+		{
+			"schedule": [2],
+			"name": "Nav Rappy Capture"
+		},
+		{
+			"schedule": [2],
+			"name": "Wolguarda Eradication"
+		},
+
+		{
+			"schedule": [3],
+			"name": "Tainted Draconian Subjugation"
+		},
+
+		{
+			"schedule": [3],
+			"name": "Nightfaller Subjugation Mission"
+		},
+
+		{
+			"schedule": [4],
+			"name": "Suppress Catredansa"
+		},
+		{
+			"schedule": [4],
+			"name": "Floating Facility Ecological Survey"
+		},
+
+		{
+			"schedule": [5],
+			"name": "ARKS Search Mission: Tundra"
+		},
+		{
+			"schedule": [5],
+			"name": "Suppress Sol Dirandahl"
+		},
+
+		{
+			"schedule": [6],
+			"name": "Ruins Enroachment Survey"
+		},
+		{
+			"schedule": [6],
+			"name": "Wopal Rescue Team"
+		},
+
+		{
+			"schedule": [7],
+			"name": "Goron Zran Subjugation"
+		},
+		{
+			"schedule": [7],
+			"name": "Phantom Repulsion: Tokyo"
+		},
+
+		{
+			"schedule": [8],
+			"name": "Automata Survey: Underground Shafts"
+		},
+		{
+			"schedule": [8],
+			"name": "Suppress Anjadeurili"
+		},
+
+		{
+			"schedule": [9],
+			"name": "Distress Signal Investigation"
+		},
+		{
+			"schedule": [9],
+			"name": "Suppress Orgbran"
+		},
+
+		{
+			"schedule": [10],
+			"name": "Rare Ore Excavation Mission"
+		},
+		{
+			"schedule": [10],
+			"name": "Destroy the Moving Fortress Automata"
+		},
+
+		{
+			"schedule": [11],
+			"name": "Suppress Dekor Maryuda"
+		},
+		{
+			"schedule": [11],
+			"name": "Nightfaller General Survey"
+		},
+
+		{
+			"schedule": [12],
+			"name": "Tundra Regional Survey"
+		},
+		{
+			"schedule": [12],
+			"name": "Suppress Leomaduraad"
+		},
+
+		{
+			"schedule": [13],
+			"name": "Cargo Recovery: Desert"
+		},
+		{
+			"schedule": [13],
+			"name": "Suppress Kodotta Idihta"
+		},
+
+		{
+			"schedule": [14],
+			"name": "Dagan Eradication Mission: Forest"
+		},
+		{
+			"schedule": [14],
+			"name": "Suppress Train Gidrahn"
+		},
+
+		{
+			"schedule": [15],
+			"name": "Carthago Eradication"
+		},
+		{
+			"schedule": [15],
+			"name": "Automata Survey: Desert"
+		},
+
+		{
+			"schedule": [16],
+			"name": "Suppress Za'udan"
+		},
+		{
+			"schedule": [16],
+			"name": "Conquer the Dragon Altar"
+		},
+
+		{
+			"schedule": [17],
+			"name": "Suppress Cartedran"
+		},
+		{
+			"schedule": [17],
+			"name": "Defend the Lilipan Village"
+		},
+
+		{
+			"schedule": [18],
+			"name": "Floating Continent Sample Recovery"
+		},
+		{
+			"schedule": [18],
+			"name": "Environment Protection Mission: Coast"
+		},
+
+		{
+			"schedule": [19],
+			"name": "Suppress Phongrulf"
+		},
+		{
+			"schedule": [19],
+			"name": "De Marmoth Subjugation"
+		},
+
+		{
+			"schedule": [20],
+			"name": "Draconian Ecology Survey"
+		},
+		{
+			"schedule": [20],
+			"name": "Automata Survey: Abandoned Mine"
+		},
+
+		{
+			"schedule": [21],
+			"name": "Environment Contaminator Destruction"
+		},
+		{
+			"schedule": [21],
+			"name": "Coastal Region Ecological Survey"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"start": "2021-02-16T00:00:00.000-07:00",
+	"cycle": 16,
+	"items": [
+		{
+			"schedule": [1],
+			"name": "Forest Exploration"
+		},
+		{
+			"schedule": [2],
+			"name": "Volcanic Caves Exploration"
+		},
+		{
+			"schedule": [3],
+			"name": "Desert Exploration"
+		},
+		{
+			"schedule": [4],
+			"name": "Tundra Exploration"
+		},
+		{
+			"schedule": [5],
+			"name": "Underground Shafts Exploration"
+		},
+		{
+			"schedule": [6],
+			"name": "Floating Continent Exploration"
+		},
+		{
+			"schedule": [7],
+			"name": "Ruins Exploration"
+		},
+		{
+			"schedule": [8],
+			"name": "Dragon Altar Exploration"
+		},
+		{
+			"schedule": [9],
+			"name": "Coast Exploration"
+		},
+		{
+			"schedule": [10],
+			"name": "Abandoned Mine Exploration"
+		},
+		{
+			"schedule": [11],
+			"name": "Seabed Exploration"
+		},
+		{
+			"schedule": [12],
+			"name": "Daybreak Province Exploration"
+		},
+		{
+			"schedule": [13],
+			"name": "Floating Facility Exploration"
+		},
+		{
+			"schedule": [14],
+			"name": "Nightfall Province Exploration"
+		},
+		{
+			"schedule": [15],
+			"name": "Tokyo Exploration"
+		},
+		{
+			"schedule": [16],
+			"name": "Las Vegas Exploration"
+		}
+	]
+}

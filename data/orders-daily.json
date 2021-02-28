@@ -1,0 +1,2976 @@
+{
+	"start": "2020-12-06T00:00:00.000-07:00",
+	"cycle": 93,
+	"items": [
+		{
+			"schedule": [7, 57, 64],
+			"name": "Collect: Udan Fur I",
+			"order": {
+				"amount": 1,
+				"meseta": 5700,
+				"exp": 6900
+			}
+		},
+		{
+			"schedule": [25, 69],
+			"name": "Collect: Udan Fur II",
+			"order": {
+				"amount": 99,
+				"meseta": 152,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [19, 40, 63],
+			"name": "Collect: Za'udan Spikes I",
+			"order": {
+				"amount": 1,
+				"meseta": 5700,
+				"exp": 6900
+			}
+		},
+		{
+			"schedule": [34, 75],
+			"name": "Collect: Za'udan Spikes II",
+			"order": {
+				"amount": 99,
+				"meseta": 152,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [1, 51, 88],
+			"name": "Collect: Nav Rappy Feathers I",
+			"order": {
+				"amount": 1,
+				"meseta": 5700,
+				"exp": 6900
+			}
+		},
+		{
+			"schedule": [13, 60],
+			"name": "Collect: Nav Rappy Feathers II",
+			"order": {
+				"amount": 99,
+				"meseta": 152,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [16, 31, 72],
+			"name": "Collect: Nordeeran Tails I",
+			"order": {
+				"amount": 1,
+				"meseta": 6500,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [43, 84],
+			"name": "Collect: Nordeeran Tails II",
+			"order": {
+				"amount": 99,
+				"meseta": 171,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [37, 78, 81],
+			"name": "Collect: Sil Deenian Scales I",
+			"order": {
+				"amount": 1,
+				"meseta": 6500,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [49, 93],
+			"name": "Collect: Sil Deenian Scales II",
+			"order": {
+				"amount": 99,
+				"meseta": 171,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [46, 54, 87],
+			"name": "Collect: Sol Deenian Fangs I",
+			"order": {
+				"amount": 1,
+				"meseta": 6500,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [12, 58],
+			"name": "Collect: Sol Deenian Fangs II",
+			"order": {
+				"amount": 99,
+				"meseta": 171,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [6, 55],
+			"name": "Collect: Vol Dragon Claws I",
+			"order": {
+				"amount": 1,
+				"meseta": 7000,
+				"exp": 13000
+			}
+		},
+		{
+			"schedule": [18, 67],
+			"name": "Collect: Vol Dragon Claws II",
+			"order": {
+				"amount": 99,
+				"meseta": 328,
+				"exp": 1000
+			}
+		},
+		{
+			"schedule": [15, 30, 61],
+			"name": "Collect: Krahda Mandibles I",
+			"order": {
+				"amount": 1,
+				"meseta": 6500,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [27, 73],
+			"name": "Collect: Krahda Mandibles II",
+			"order": {
+				"amount": 99,
+				"meseta": 171,
+				"exp": 150
+			}
+		},
+		{
+			"schedule": [22, 24, 70],
+			"name": "Collect: El Arda Wings I",
+			"order": {
+				"amount": 1,
+				"meseta": 6500,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [36, 82],
+			"name": "Collect: El Arda Wings II",
+			"order": {
+				"amount": 99,
+				"meseta": 260,
+				"exp": 200
+			}
+		},
+		{
+			"schedule": [9, 33, 79],
+			"name": "Collect: Izaogal Horns",
+			"order": {
+				"amount": 99,
+				"meseta": 430,
+				"exp": 545
+			}
+		},
+		{
+			"schedule": [4, 39, 85],
+			"name": "Collect: Pitta Wadda Rings",
+			"order": {
+				"amount": 99,
+				"meseta": 430,
+				"exp": 545
+			}
+		},
+		{
+			"schedule": [10, 45, 91],
+			"name": "Collect: Silt Grimian Shells",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [3, 48, 90],
+			"name": "Collect: Lanz Valehda Tailblades",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [28, 52, 76],
+			"name": "Collect: Zombie's Neckties",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 545
+			}
+		},
+		{
+			"schedule": [21, 42, 66],
+			"name": "Collect: Rollers of the Road Rollers",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 545
+			}
+		},
+		{
+			"schedule": [7, 49],
+			"name": "Suppress: Agnises I",
+			"order": {
+				"amount": 1,
+				"meseta": 23500,
+				"exp": 11000
+			}
+		},
+		{
+			"schedule": [16, 61],
+			"name": "Suppress: Agnises II",
+			"order": {
+				"amount": 99,
+				"meseta": 470,
+				"exp": 200
+			}
+		},
+		{
+			"schedule": [28, 70],
+			"name": "Suppress: Garongoes I",
+			"order": {
+				"amount": 1,
+				"meseta": 23500,
+				"exp": 11000
+			}
+		},
+		{
+			"schedule": [40, 82],
+			"name": "Suppress: Garongoes II",
+			"order": {
+				"amount": 99,
+				"meseta": 710,
+				"exp": 200
+			}
+		},
+		{
+			"schedule": [10, 31, 64],
+			"name": "Suppress: Deegs I",
+			"order": {
+				"amount": 1,
+				"meseta": 23500,
+				"exp": 11000
+			}
+		},
+		{
+			"schedule": [22, 52, 76],
+			"name": "Suppress: Deegs II",
+			"order": {
+				"amount": 99,
+				"meseta": 470,
+				"exp": 200
+			}
+		},
+		{
+			"schedule": [1, 55],
+			"name": "Suppress: Catredrans I",
+			"order": {
+				"amount": 1,
+				"meseta": 46530,
+				"exp": 11400
+			}
+		},
+		{
+			"schedule": [34, 88],
+			"name": "Suppress: Pajigeeris",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [25],
+			"name": "Suppress: Anshizagris",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [4, 67],
+			"name": "Suppress: Izaogals",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [13, 79],
+			"name": "Suppress: Adaogals",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [58],
+			"name": "Suppress: Gannagams",
+			"order": {
+				"amount": 1,
+				"meseta": 45000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [46],
+			"name": "Suppress: Rerangams",
+			"order": {
+				"amount": 1,
+				"meseta": 45000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [43, 85],
+			"name": "Suppress: Pitta Waddas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [11],
+			"name": "Suppress: Prata Picohdas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [23, 68],
+			"name": "Suppress: Bonta Beaddas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [38, 92],
+			"name": "Suppress: Gigur Gunnegams",
+			"order": {
+				"amount": 1,
+				"meseta": 45000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [5],
+			"name": "Suppress: Falgurbons",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [14, 65],
+			"name": "Suppress: Dalbolupuses",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [29],
+			"name": "Suppress: Branadians",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [50, 86],
+			"name": "Suppress: Silt Grimians",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [41, 77],
+			"name": "Suppress: Banoridians",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [32],
+			"name": "Suppress: Davrunes",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [47],
+			"name": "Suppress: Davrundas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [59, 83],
+			"name": "Suppress: Lanz Valehdas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [20, 74],
+			"name": "Suppress: Leomaduraads",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [19, 73],
+			"name": "Suppress: Nept Casadohras",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [8],
+			"name": "Suppress: Rat Phants",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [17],
+			"name": "Suppress: Sword Zombies",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [26],
+			"name": "Suppress: Heat-packing Zombies",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [35],
+			"name": "Suppress: Brown Bears",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [44],
+			"name": "Suppress: Polar Bears",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [37, 91],
+			"name": "Suppress: T15 Tanks",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [53],
+			"name": "Suppress: T-Rexes",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [62, 80],
+			"name": "Suppress: Road Rollers",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [71, 89],
+			"name": "Suppress: Snakehelis",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [2, 56],
+			"name": "Suppress: Train Gidran(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [12, 24, 33, 45, 60, 87],
+			"name": "Circuit: Nav Rappy Capture Mission I",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [15, 30, 50, 59, 72, 86],
+			"name": "Circuit: Carthago Eradication",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [18, 35, 54, 66, 80, 90],
+			"name": "Circuit: Resource Transport: Desert",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [2, 26, 39, 48, 62, 74, 92],
+			"name": "Circuit: Suppression of Anjadeurilis",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [6, 11, 38, 42, 56, 63, 78],
+			"name": "Circuit: Suppression of Leomaduraads",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [5, 41, 77],
+			"name": "Circuit: Naverius Advanced Dash N",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [17, 53, 89],
+			"name": "Circuit: Lillipan Dash N",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [23, 29, 65],
+			"name": "Circuit: Amduskia Dash N",
+			"order": {
+				"amount": 1,
+				"meseta": 39900,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [3, 27, 51, 71, 75, 83, 93],
+			"name": "Circuit: Daybreak Province Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [9, 14, 21, 47, 57, 69, 81],
+			"name": "Circuit: Floating Facility Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [8, 20, 32, 36, 44, 68, 84],
+			"name": "Circuit: Tokyo Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [8, 38],
+			"name": "Collect: Grulf Fangs I",
+			"order": {
+				"amount": 1,
+				"meseta": 6300,
+				"exp": 7650
+			}
+		},
+		{
+			"schedule": [68],
+			"name": "Collect: Grulf Fangs II",
+			"order": {
+				"amount": 99,
+				"meseta": 168,
+				"exp": 128
+			}
+		},
+		{
+			"schedule": [56],
+			"name": "Collect: Phongrulf Claws I",
+			"order": {
+				"amount": 1,
+				"meseta": 4200,
+				"exp": 89250
+			}
+		},
+		{
+			"schedule": [14],
+			"name": "Collect: Phongrulf Claws II",
+			"order": {
+				"amount": 99,
+				"meseta": 224,
+				"exp": 286
+			}
+		},
+		{
+			"schedule": [62, 77],
+			"name": "Collect: Dagan Carapaces I",
+			"order": {
+				"amount": 1,
+				"meseta": 7200,
+				"exp": 7650
+			}
+		},
+		{
+			"schedule": [50],
+			"name": "Collect: Dagan Carapaces II",
+			"order": {
+				"amount": 99,
+				"meseta": 192,
+				"exp": 128
+			}
+		},
+		{
+			"schedule": [53, 83, 89],
+			"name": "Collect: Fodran Manes I",
+			"order": {
+				"amount": 1,
+				"meseta": 3500,
+				"exp": 11305
+			}
+		},
+		{
+			"schedule": [11],
+			"name": "Collect: Fodran Manes II",
+			"order": {
+				"amount": 99,
+				"meseta": 280,
+				"exp": 350
+			}
+		},
+		{
+			"schedule": [29, 59],
+			"name": "Collect: Deenian Fins I",
+			"order": {
+				"amount": 1,
+				"meseta": 2800,
+				"exp": 11305
+			}
+		},
+		{
+			"schedule": [35],
+			"name": "Collect: Deenian Fins II",
+			"order": {
+				"amount": 99,
+				"meseta": 224,
+				"exp": 345
+			}
+		},
+		{
+			"schedule": [92],
+			"name": "Collect: Signogun Barrels I",
+			"order": {
+				"amount": 1,
+				"meseta": 4200,
+				"exp": 10710
+			}
+		},
+		{
+			"schedule": [41],
+			"name": "Collect: Signogun Barrels II",
+			"order": {
+				"amount": 99,
+				"meseta": 224,
+				"exp": 345
+			}
+		},
+		{
+			"schedule": [5, 44],
+			"name": "Collect: Carthago Legs I",
+			"order": {
+				"amount": 1,
+				"meseta": 2925,
+				"exp": 10498
+			}
+		},
+		{
+			"schedule": [32],
+			"name": "Collect: Carthago Legs II",
+			"order": {
+				"amount": 99,
+				"meseta": 234,
+				"exp": 425
+			}
+		},
+		{
+			"schedule": [47, 80],
+			"name": "Collect: Garongo Molars I",
+			"order": {
+				"amount": 1,
+				"meseta": 2800,
+				"exp": 14280
+			}
+		},
+		{
+			"schedule": [23, 86],
+			"name": "Collect: Garongo Molars II",
+			"order": {
+				"amount": 99,
+				"meseta": 448,
+				"exp": 554
+			}
+		},
+		{
+			"schedule": [91],
+			"name": "Collect: Spargun Ordnance I",
+			"order": {
+				"amount": 1,
+				"meseta": 6000,
+				"exp": 12240
+			}
+		},
+		{
+			"schedule": [4, 22],
+			"name": "Collect: Spargun Ordnance II",
+			"order": {
+				"amount": 99,
+				"meseta": 240,
+				"exp": 357
+			}
+		},
+		{
+			"schedule": [71],
+			"name": "Collect: Gwanada Carapaces I",
+			"order": {
+				"amount": 1,
+				"meseta": 2520,
+				"exp": 14280
+			}
+		},
+		{
+			"schedule": [65],
+			"name": "Collect: Gwanada Carapaces II",
+			"order": {
+				"amount": 99,
+				"meseta": 504,
+				"exp": 554
+			}
+		},
+		{
+			"schedule": [61],
+			"name": "Collect: Yedi Fur I",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 12240
+			}
+		},
+		{
+			"schedule": [70, 73],
+			"name": "Collect: Yedi Fur II",
+			"order": {
+				"amount": 99,
+				"meseta": 240,
+				"exp": 357
+			}
+		},
+		{
+			"schedule": [10, 85],
+			"name": "Collect: Marmoth Hooves I",
+			"order": {
+				"amount": 1,
+				"meseta": 6000,
+				"exp": 12240
+			}
+		},
+		{
+			"schedule": [46],
+			"name": "Collect: Marmoth Hooves II",
+			"order": {
+				"amount": 99,
+				"meseta": 240,
+				"exp": 184
+			}
+		},
+		{
+			"schedule": [16, 79],
+			"name": "Collect: Snow Banser Claws I",
+			"order": {
+				"amount": 1,
+				"meseta": 3500,
+				"exp": 14280
+			}
+		},
+		{
+			"schedule": [28],
+			"name": "Collect: Snow Banser Claws II",
+			"order": {
+				"amount": 99,
+				"meseta": 700,
+				"exp": 816
+			}
+		},
+		{
+			"schedule": [52, 88],
+			"name": "Collect: Tranmizer Claws I",
+			"order": {
+				"amount": 1,
+				"meseta": 2800,
+				"exp": 14280
+			}
+		},
+		{
+			"schedule": [19],
+			"name": "Collect: Tranmizer Claws II",
+			"order": {
+				"amount": 99,
+				"meseta": 560,
+				"exp": 536
+			}
+		},
+		{
+			"schedule": [7, 40],
+			"name": "Collect: Baridran Scales I",
+			"order": {
+				"amount": 1,
+				"meseta": 6000,
+				"exp": 12240
+			}
+		},
+		{
+			"schedule": [67],
+			"name": "Collect: Baridran Scales II",
+			"order": {
+				"amount": 99,
+				"meseta": 240,
+				"exp": 184
+			}
+		},
+		{
+			"schedule": [76, 82],
+			"name": "Collect: Wyndila Scales I",
+			"order": {
+				"amount": 1,
+				"meseta": 3500,
+				"exp": 14280
+			}
+		},
+		{
+			"schedule": [34, 49],
+			"name": "Collect: Wyndila Scales II",
+			"order": {
+				"amount": 99,
+				"meseta": 280,
+				"exp": 536
+			}
+		},
+		{
+			"schedule": [25, 64],
+			"name": "Collect: Sadeenian Blade Fragments I",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 12240
+			}
+		},
+		{
+			"schedule": [55],
+			"name": "Collect: Sadeenian Blade Fragments II",
+			"order": {
+				"amount": 99,
+				"meseta": 240,
+				"exp": 184
+			}
+		},
+		{
+			"schedule": [1, 58],
+			"name": "Collect: Catredransa Fangs I",
+			"order": {
+				"amount": 1,
+				"meseta": 2800,
+				"exp": 14280
+			}
+		},
+		{
+			"schedule": [37],
+			"name": "Collect: Catredransa Fangs II",
+			"order": {
+				"amount": 99,
+				"meseta": 560,
+				"exp": 536
+			}
+		},
+		{
+			"schedule": [20, 74],
+			"name": "Collect: Kodoniagari Bells",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [17, 31],
+			"name": "Collect: Ogakibar Crests",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [2, 26],
+			"name": "Collect: Neon Tubes",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [13, 43],
+			"name": "Collect: Dullahan Biker Side Cars",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [27, 77],
+			"name": "Suppress: Udans I",
+			"order": {
+				"amount": 1,
+				"meseta": 38400,
+				"exp": 12240
+			}
+		},
+		{
+			"schedule": [32],
+			"name": "Suppress: Udans II",
+			"order": {
+				"amount": 99,
+				"meseta": 870,
+				"exp": 245
+			}
+		},
+		{
+			"schedule": [47, 84],
+			"name": "Suppress: Fang Banshees I",
+			"order": {
+				"amount": 1,
+				"meseta": 49000,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [24, 62],
+			"name": "Suppress: Spardun As I",
+			"order": {
+				"amount": 1,
+				"meseta": 32400,
+				"exp": 15300
+			}
+		},
+		{
+			"schedule": [2],
+			"name": "Suppress: Spardun As II",
+			"order": {
+				"amount": 99,
+				"meseta": 870,
+				"exp": 296
+			}
+		},
+		{
+			"schedule": [9, 50],
+			"name": "Suppress: Sparguns I",
+			"order": {
+				"amount": 1,
+				"meseta": 38400,
+				"exp": 15300
+			}
+		},
+		{
+			"schedule": [18],
+			"name": "Suppress: Sparguns II",
+			"order": {
+				"amount": 99,
+				"meseta": 870,
+				"exp": 296
+			}
+		},
+		{
+			"schedule": [29, 78],
+			"name": "Suppress: King Yedis I",
+			"order": {
+				"amount": 1,
+				"meseta": 18900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [20, 72],
+			"name": "Suppress: Guardines I",
+			"order": {
+				"amount": 1,
+				"meseta": 36000,
+				"exp": 18360
+			}
+		},
+		{
+			"schedule": [11],
+			"name": "Suppress: Guardines II",
+			"order": {
+				"amount": 99,
+				"meseta": 1080,
+				"exp": 342
+			}
+		},
+		{
+			"schedule": [48, 86],
+			"name": "Suppress: Sparziles I",
+			"order": {
+				"amount": 1,
+				"meseta": 36000,
+				"exp": 18360
+			}
+		},
+		{
+			"schedule": [5],
+			"name": "Suppress: Sparziles II",
+			"order": {
+				"amount": 99,
+				"meseta": 1080,
+				"exp": 474
+			}
+		},
+		{
+			"schedule": [33, 89],
+			"name": "Suppress: Sadeenians I",
+			"order": {
+				"amount": 1,
+				"meseta": 31500,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [38],
+			"name": "Suppress: Sadeenians II",
+			"order": {
+				"amount": 99,
+				"meseta": 1260,
+				"exp": 400
+			}
+		},
+		{
+			"schedule": [6, 68],
+			"name": "Suppress: Pajigwans",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [14, 54],
+			"name": "Suppress: Kodoniagaris",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [53, 87],
+			"name": "Suppress: Itagizakris",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [15, 59],
+			"name": "Suppress: Orogrels",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [42, 69],
+			"name": "Suppress: Bomta Bakutas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [45, 65],
+			"name": "Suppress: Bichda Rabittas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [36, 60],
+			"name": "Suppress: Mudr Toykattas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 21000
+			}
+		},
+		{
+			"schedule": [41, 66],
+			"name": "Suppress: Orota Bikehtas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 21000
+			}
+		},
+		{
+			"schedule": [57, 92],
+			"name": "Suppress: Kodotta Idihtas",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 22000
+			}
+		},
+		{
+			"schedule": [23, 74],
+			"name": "Suppress: Gwahl Jigmoldes",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 22000
+			}
+		},
+		{
+			"schedule": [3, 51],
+			"name": "Suppress: Boxer Phants",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [12, 56],
+			"name": "Suppress: Vulture Phants",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [8, 63],
+			"name": "Suppress: Skull Buffaloes",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [21, 71],
+			"name": "Suppress: Juggler Clowns",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [17, 75],
+			"name": "Suppress: Launcher Neons",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [30, 80],
+			"name": "Suppress: Dullahan Biker",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 21000
+			}
+		},
+		{
+			"schedule": [39, 90],
+			"name": "Suppress: Circus Carriages",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 21000
+			}
+		},
+		{
+			"schedule": [26, 81],
+			"name": "Suppress: UFOs",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 21000
+			}
+		},
+		{
+			"schedule": [35, 93],
+			"name": "Suppress: Devil Trucks I",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 22000
+			}
+		},
+		{
+			"schedule": [44, 83],
+			"name": "Suppress: Vegas lllusia(s) I",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 22000
+			}
+		},
+		{
+			"schedule": [13, 24, 51, 58, 85],
+			"name": "Circuit: Catredran Suppression I",
+			"order": {
+				"amount": 1,
+				"meseta": 66500,
+				"exp": 17850
+			}
+		},
+		{
+			"schedule": [7, 34, 54, 61, 78],
+			"name": "Circuit: Distress Signal Investigation I",
+			"order": {
+				"amount": 1,
+				"meseta": 49900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [6, 36, 43, 63, 70, 84],
+			"name": "Circuit: Suppression of Catredransas",
+			"order": {
+				"amount": 1,
+				"meseta": 49900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [4, 28, 37, 52, 64, 88],
+			"name": "Circuit: Destroy the Giant Automata",
+			"order": {
+				"amount": 1,
+				"meseta": 49900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [12, 39, 46, 49, 73, 87],
+			"name": "Circuit: Suppression of Orgbrans",
+			"order": {
+				"amount": 1,
+				"meseta": 49900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [15, 22, 40, 72, 79, 90],
+			"name": "Circuit: Dstry the Mvng Fortress Automat",
+			"order": {
+				"amount": 1,
+				"meseta": 49900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [16, 25, 48, 55, 75, 82],
+			"name": "Circuit: Suppression of Kodotta Idihtas",
+			"order": {
+				"amount": 1,
+				"meseta": 49900,
+				"exp": 21420
+			}
+		},
+		{
+			"schedule": [33, 93],
+			"name": "Circuit: Naverius Advanced Dash H",
+			"order": {
+				"amount": 1,
+				"meseta": 53000,
+				"exp": 21372
+			}
+		},
+		{
+			"schedule": [67, 81],
+			"name": "Circuit: Lillipan Dash H",
+			"order": {
+				"amount": 1,
+				"meseta": 58600,
+				"exp": 40074
+			}
+		},
+		{
+			"schedule": [57, 91],
+			"name": "Circuit: Amduskia Dash H",
+			"order": {
+				"amount": 1,
+				"meseta": 64300,
+				"exp": 40074
+			}
+		},
+		{
+			"schedule": [9, 69],
+			"name": "Circuit: Naverius Beginner Dash H",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 10000
+			}
+		},
+		{
+			"schedule": [21, 45],
+			"name": "Circuit: Dragon Altar Breakthrough H",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [3, 10, 19, 30, 60, 76],
+			"name": "Circuit: Nightfall Province Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [1, 18, 27, 31, 42, 66],
+			"name": "Circuit: Las Vegas Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 20000
+			}
+		},
+		{
+			"schedule": [30, 42, 78, 93],
+			"name": "Collect: Agnis Tail Feathers I",
+			"order": {
+				"amount": 1,
+				"meseta": 18000,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [9, 33, 63, 81],
+			"name": "Collect: Agnis Tail Feathers II",
+			"order": {
+				"amount": 99,
+				"meseta": 390,
+				"exp": 182
+			}
+		},
+		{
+			"schedule": [3, 15, 27, 66],
+			"name": "Collect: Briarda Wings I",
+			"order": {
+				"amount": 1,
+				"meseta": 11250,
+				"exp": 16500
+			}
+		},
+		{
+			"schedule": [18, 24, 39, 45],
+			"name": "Collect: Briarda Wings II",
+			"order": {
+				"amount": 99,
+				"meseta": 420,
+				"exp": 483
+			}
+		},
+		{
+			"schedule": [57, 72, 75, 87],
+			"name": "Collect: Deeg Leg Horns I",
+			"order": {
+				"amount": 1,
+				"meseta": 22500,
+				"exp": 10200
+			}
+		},
+		{
+			"schedule": [12, 21, 48, 60],
+			"name": "Collect: Deeg Leg Horns II",
+			"order": {
+				"amount": 99,
+				"meseta": 390,
+				"exp": 182
+			}
+		},
+		{
+			"schedule": [6, 36, 69, 90],
+			"name": "Collect: Phangrulfer Claws I",
+			"order": {
+				"amount": 1,
+				"meseta": 13500,
+				"exp": 16200
+			}
+		},
+		{
+			"schedule": [51, 54, 84],
+			"name": "Collect: Phangrulfer Claws II",
+			"order": {
+				"amount": 99,
+				"meseta": 390,
+				"exp": 338
+			}
+		},
+		{
+			"schedule": [2, 5, 35, 53],
+			"name": "Collect: Gillnach Chest Armor I",
+			"order": {
+				"amount": 1,
+				"meseta": 9000,
+				"exp": 16500
+			}
+		},
+		{
+			"schedule": [20, 41, 56, 74],
+			"name": "Collect: Gillnach Chest Armor II",
+			"order": {
+				"amount": 99,
+				"meseta": 420,
+				"exp": 483
+			}
+		},
+		{
+			"schedule": [38, 68, 71, 80],
+			"name": "Collect: Quartz Dragon Fangs I",
+			"order": {
+				"amount": 1,
+				"meseta": 6240,
+				"exp": 39000
+			}
+		},
+		{
+			"schedule": [23, 44, 59, 77],
+			"name": "Collect: Quartz Dragon Fangs II",
+			"order": {
+				"amount": 99,
+				"meseta": 728,
+				"exp": 1698
+			}
+		},
+		{
+			"schedule": [29, 50, 65, 89],
+			"name": "Collect: Cychronahda Horns I",
+			"order": {
+				"amount": 1,
+				"meseta": 16380,
+				"exp": 27300
+			}
+		},
+		{
+			"schedule": [8, 17, 47, 83],
+			"name": "Collect: Cychronahda Horns II",
+			"order": {
+				"amount": 99,
+				"meseta": 1176,
+				"exp": 1540
+			}
+		},
+		{
+			"schedule": [11, 26, 32, 62],
+			"name": "Collect: Wolguarda Abdomen Fangs I",
+			"order": {
+				"amount": 1,
+				"meseta": 11440,
+				"exp": 26000
+			}
+		},
+		{
+			"schedule": [14, 86, 92],
+			"name": "Collect: Wolguarda Abdomen Fangs II",
+			"order": {
+				"amount": 99,
+				"meseta": 1232,
+				"exp": 1610
+			}
+		},
+		{
+			"schedule": [93],
+			"name": "Suppress: Phongrulfs I",
+			"order": {
+				"amount": 1,
+				"meseta": 47300,
+				"exp": 16200
+			}
+		},
+		{
+			"schedule": [28],
+			"name": "Suppress: Phongrulfs II",
+			"order": {
+				"amount": 99,
+				"meseta": 1150,
+				"exp": 338
+			}
+		},
+		{
+			"schedule": [84],
+			"name": "Suppress: Gillnases I",
+			"order": {
+				"amount": 1,
+				"meseta": 31500,
+				"exp": 16500
+			}
+		},
+		{
+			"schedule": [40],
+			"name": "Suppress: Gillnases II",
+			"order": {
+				"amount": 99,
+				"meseta": 1240,
+				"exp": 725
+			}
+		},
+		{
+			"schedule": [66],
+			"name": "Suppress: De Marmoths I",
+			"order": {
+				"amount": 1,
+				"meseta": 15800,
+				"exp": 39000
+			}
+		},
+		{
+			"schedule": [51],
+			"name": "Suppress: Signo Beats I",
+			"order": {
+				"amount": 1,
+				"meseta": 42000,
+				"exp": 30900
+			}
+		},
+		{
+			"schedule": [58],
+			"name": "Suppress: Signo Beats II",
+			"order": {
+				"amount": 99,
+				"meseta": 1150,
+				"exp": 449
+			}
+		},
+		{
+			"schedule": [33],
+			"name": "Suppress: Dhargashes I",
+			"order": {
+				"amount": 1,
+				"meseta": 43400,
+				"exp": 30600
+			}
+		},
+		{
+			"schedule": [70],
+			"name": "Suppress: Dhargashes II",
+			"order": {
+				"amount": 99,
+				"meseta": 1150,
+				"exp": 449
+			}
+		},
+		{
+			"schedule": [10],
+			"name": "Suppress: Krabahdas I",
+			"order": {
+				"amount": 1,
+				"meseta": 41800,
+				"exp": 21450
+			}
+		},
+		{
+			"schedule": [6],
+			"name": "Suppress: Krabahdas II",
+			"order": {
+				"amount": 99,
+				"meseta": 2780,
+				"exp": 1446
+			}
+		},
+		{
+			"schedule": [22],
+			"name": "Suppress: Cuchronahdas I",
+			"order": {
+				"amount": 1,
+				"meseta": 62100,
+				"exp": 26000
+			}
+		},
+		{
+			"schedule": [15],
+			"name": "Suppress: Cuchronahdas II",
+			"order": {
+				"amount": 1,
+				"meseta": 2840,
+				"exp": 1495
+			}
+		},
+		{
+			"schedule": [46],
+			"name": "Suppress: Zeshraiders I",
+			"order": {
+				"amount": 1,
+				"meseta": 43700,
+				"exp": 28350
+			}
+		},
+		{
+			"schedule": [82],
+			"name": "Suppress: Dirandahls",
+			"order": {
+				"amount": 99,
+				"meseta": 2800,
+				"exp": 1610
+			}
+		},
+		{
+			"schedule": [18],
+			"name": "Suppress: Sol Dirandahls",
+			"order": {
+				"amount": 99,
+				"meseta": 2800,
+				"exp": 1610
+			}
+		},
+		{
+			"schedule": [4, 52, 81],
+			"name": "Suppress: Goron Zrans",
+			"order": {
+				"amount": 1,
+				"meseta": 82500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [36, 54, 72],
+			"name": "Suppress: Dragon X(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 97500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [24],
+			"name": "Suppress: Aqualupuses",
+			"order": {
+				"amount": 99,
+				"meseta": 1130,
+				"exp": 665
+			}
+		},
+		{
+			"schedule": [30],
+			"name": "Suppress: Bloomegaras",
+			"order": {
+				"amount": 99,
+				"meseta": 1090,
+				"exp": 690
+			}
+		},
+		{
+			"schedule": [16, 64, 87],
+			"name": "Suppress: Orgbrans",
+			"order": {
+				"amount": 1,
+				"meseta": 82500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [1, 7, 13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85, 91],
+			"name": "Suppress: Bar Lodoses",
+			"order": {
+				"amount": 1,
+				"meseta": 250000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [42],
+			"name": "Suppress: Starkguns",
+			"order": {
+				"amount": 99,
+				"meseta": 1150,
+				"exp": 680
+			}
+		},
+		{
+			"schedule": [48],
+			"name": "Suppress: Vint Balgers",
+			"order": {
+				"amount": 99,
+				"meseta": 1110,
+				"exp": 720
+			}
+		},
+		{
+			"schedule": [57],
+			"name": "Suppress: Jagd Dingale",
+			"order": {
+				"amount": 1,
+				"meseta": 1690,
+				"exp": 1600
+			}
+		},
+		{
+			"schedule": [21, 39, 76],
+			"name": "Suppress: Vardersomas",
+			"order": {
+				"amount": 1,
+				"meseta": 97500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [60],
+			"name": "Suppress: Bluturbons",
+			"order": {
+				"amount": 99,
+				"meseta": 660,
+				"exp": 700
+			}
+		},
+		{
+			"schedule": [69],
+			"name": "Suppress: Sevanians",
+			"order": {
+				"amount": 99,
+				"meseta": 1160,
+				"exp": 710
+			}
+		},
+		{
+			"schedule": [78],
+			"name": "Suppress: Tarobekkos",
+			"order": {
+				"amount": 99,
+				"meseta": 1160,
+				"exp": 710
+			}
+		},
+		{
+			"schedule": [90],
+			"name": "Suppress: Druahdas",
+			"order": {
+				"amount": 99,
+				"meseta": 1160,
+				"exp": 710
+			}
+		},
+		{
+			"schedule": [12, 45, 75],
+			"name": "Suppress: Dekor Maryudas",
+			"order": {
+				"amount": 1,
+				"meseta": 105000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [9, 27, 63],
+			"name": "Suppress: T15 Tanks",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 25000
+			}
+		},
+		{
+			"schedule": [3, 34, 88],
+			"name": "Suppress: Devil Trucks II",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 25000
+			}
+		},
+		{
+			"schedule": [2, 8, 62, 76],
+			"name": "Circuit: ARKS Search Mission: Tundra I",
+			"order": {
+				"amount": 1,
+				"meseta": 93600,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [14, 19, 68, 82],
+			"name": "Circuit: Contaminator Destruction I",
+			"order": {
+				"amount": 1,
+				"meseta": 117000,
+				"exp": 24300
+			}
+		},
+		{
+			"schedule": [4, 32, 43, 55],
+			"name": "Circuit: Conquer the Dragon Altar",
+			"order": {
+				"amount": 1,
+				"meseta": 112500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [17, 23, 74, 88],
+			"name": "Circuit: Coastal Ecological Survey",
+			"order": {
+				"amount": 1,
+				"meseta": 113700,
+				"exp": 13500
+			}
+		},
+		{
+			"schedule": [31, 38, 67, 80],
+			"name": "Circuit: Automata Survey: Mines",
+			"order": {
+				"amount": 1,
+				"meseta": 113700,
+				"exp": 13500
+			}
+		},
+		{
+			"schedule": [29, 41, 50, 86],
+			"name": "Circuit: Seabed Ecological Survey",
+			"order": {
+				"amount": 1,
+				"meseta": 113700,
+				"exp": 13500
+			}
+		},
+		{
+			"schedule": [25, 47, 61],
+			"name": "Circuit: Naverius Advanced Dash VH",
+			"order": {
+				"amount": 1,
+				"meseta": 120000,
+				"exp": 21372
+			}
+		},
+		{
+			"schedule": [1, 37, 73],
+			"name": "Circuit: Lillipan Dash VH",
+			"order": {
+				"amount": 1,
+				"meseta": 120000,
+				"exp": 40074
+			}
+		},
+		{
+			"schedule": [13, 49, 85],
+			"name": "Circuit: Amduskia Dash VH",
+			"order": {
+				"amount": 1,
+				"meseta": 120000,
+				"exp": 40074
+			}
+		},
+		{
+			"schedule": [5, 10, 56, 59],
+			"name": "Circuit: Volcanic Caves Exploration I",
+			"order": {
+				"amount": 1,
+				"meseta": 93600,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [11, 16, 65, 79],
+			"name": "Circuit: Floating Continent Exploration I",
+			"order": {
+				"amount": 1,
+				"meseta": 105300,
+				"exp": 18900
+			}
+		},
+		{
+			"schedule": [20, 22, 71, 89],
+			"name": "Circuit: Ruins Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 158400,
+				"exp": 28350
+			}
+		},
+		{
+			"schedule": [7, 35, 46, 52],
+			"name": "Circuit: Dragon Altar Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 112500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [26, 28, 70, 77, 91],
+			"name": "Circuit: Coast Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 118800,
+				"exp": 13050
+			}
+		},
+		{
+			"schedule": [34, 53, 64, 83],
+			"name": "Circuit: Abandoned Mine Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 118800,
+				"exp": 13050
+			}
+		},
+		{
+			"schedule": [40, 44, 58, 92],
+			"name": "Circuit: Seabed Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 118800,
+				"exp": 13050
+			}
+		},
+		{
+			"schedule": [10, 58, 73],
+			"name": "Collect: Agnis Beautiful Crest",
+			"order": {
+				"amount": 99,
+				"meseta": 490,
+				"exp": 432
+			}
+		},
+		{
+			"schedule": [25, 82, 88],
+			"name": "Collect: Garongo Sharp Claws",
+			"order": {
+				"amount": 99,
+				"meseta": 750,
+				"exp": 725
+			}
+		},
+		{
+			"schedule": [7, 70, 91],
+			"name": "Collect: Deenian Hides",
+			"order": {
+				"amount": 99,
+				"meseta": 425,
+				"exp": 545
+			}
+		},
+		{
+			"schedule": [37, 43, 64],
+			"name": "Collect: Deeg Eyelids",
+			"order": {
+				"amount": 99,
+				"meseta": 490,
+				"exp": 432
+			}
+		},
+		{
+			"schedule": [4, 19, 46],
+			"name": "Collect: Signo Chips",
+			"order": {
+				"amount": 99,
+				"meseta": 575,
+				"exp": 645
+			}
+		},
+		{
+			"schedule": [22, 31, 76, 85],
+			"name": "Collect: Spar Chips",
+			"order": {
+				"amount": 99,
+				"meseta": 550,
+				"exp": 647
+			}
+		},
+		{
+			"schedule": [16, 28, 40],
+			"name": "Collect: Phangrulfer Horns",
+			"order": {
+				"amount": 99,
+				"meseta": 540,
+				"exp": 638
+			}
+		},
+		{
+			"schedule": [52, 67, 79],
+			"name": "Collect: Yedi Fists",
+			"order": {
+				"amount": 99,
+				"meseta": 490,
+				"exp": 550
+			}
+		},
+		{
+			"schedule": [13, 34, 61],
+			"name": "Collect: Gillnach Arms",
+			"order": {
+				"amount": 99,
+				"meseta": 560,
+				"exp": 583
+			}
+		},
+		{
+			"schedule": [1, 49, 55],
+			"name": "Collect: Fodransa Horns",
+			"order": {
+				"amount": 99,
+				"meseta": 675,
+				"exp": 524
+			}
+		},
+		{
+			"schedule": [9, 78, 93],
+			"name": "Collect: Wolguarda Knee Carapaces",
+			"order": {
+				"amount": 99,
+				"meseta": 1478,
+				"exp": 1771
+			}
+		},
+		{
+			"schedule": [15, 18, 72],
+			"name": "Collect: Deegahla Wings",
+			"order": {
+				"amount": 99,
+				"meseta": 750,
+				"exp": 600
+			}
+		},
+		{
+			"schedule": [45, 54, 84],
+			"name": "Collect: Bloomegara Flowers",
+			"order": {
+				"amount": 99,
+				"meseta": 1008,
+				"exp": 828
+			}
+		},
+		{
+			"schedule": [3, 27, 60, 69],
+			"name": "Collect: Dingale Arms",
+			"order": {
+				"amount": 99,
+				"meseta": 950,
+				"exp": 850
+			}
+		},
+		{
+			"schedule": [6, 42, 66, 90],
+			"name": "Collect: Bluturbon Blue Shells",
+			"order": {
+				"amount": 99,
+				"meseta": 650,
+				"exp": 950
+			}
+		},
+		{
+			"schedule": [24, 33, 36, 39],
+			"name": "Collect: Falcabone Shell Fragments",
+			"order": {
+				"amount": 99,
+				"meseta": 980,
+				"exp": 980
+			}
+		},
+		{
+			"schedule": [12, 21, 57, 75],
+			"name": "Collect: Tag Aqualupus Claws",
+			"order": {
+				"amount": 99,
+				"meseta": 975,
+				"exp": 970
+			}
+		},
+		{
+			"schedule": [51, 63, 81],
+			"name": "Collect: Tarobekko Beaks",
+			"order": {
+				"amount": 99,
+				"meseta": 975,
+				"exp": 970
+			}
+		},
+		{
+			"schedule": [30, 48, 87],
+			"name": "Collect: Vid Giros Tail Fins",
+			"order": {
+				"amount": 99,
+				"meseta": 980,
+				"exp": 1050
+			}
+		},
+		{
+			"schedule": [14, 58],
+			"name": "Suppression: Fang Banshee II",
+			"order": {
+				"amount": 1,
+				"meseta": 97500,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [62, 88],
+			"name": "Suppress: Vol Dragon(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [13, 40],
+			"name": "Suppress: Gwanadas",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [17, 71],
+			"name": "Suppress: Snow Banser(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [22, 76],
+			"name": "Suppress: Big Varder(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [26, 80],
+			"name": "Suppress: Quartz Dragon(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [31, 85],
+			"name": "Suppress: Zeshraiders",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [35, 89],
+			"name": "Suppress: Dragon X(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [1, 37],
+			"name": "Suppress: Bar Lodoses",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [5, 44],
+			"name": "Suppress: Bryu Ringahdas",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [2, 38, 74],
+			"name": "Suppress: Tag Sevanians",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [11, 47, 83],
+			"name": "Suppress: Guru Soldas",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [20, 56, 92],
+			"name": "Suppress: Dwe Soldas",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [7, 29, 65],
+			"name": "Suppress: Solda Capitas",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [32, 49],
+			"name": "Suppress: Biol Medunas",
+			"order": {
+				"amount": 1,
+				"meseta": 130000,
+				"exp": 18000
+			}
+		},
+		{
+			"schedule": [53, 82],
+			"name": "Suppress: Train Gidran(s)",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 30000
+			}
+		},
+		{
+			"schedule": [4, 67],
+			"name": "Suppress: Vegas lllusia(s) II",
+			"order": {
+				"amount": 1,
+				"meseta": 60000,
+				"exp": 30000
+			}
+		},
+		{
+			"schedule": [8, 28, 52, 70],
+			"name": "Suppress: Dagans",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [10, 34, 55, 73],
+			"name": "Suppress: Gawondas",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [19, 43, 61, 79],
+			"name": "Suppress: Dicahdrs",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [16, 41, 59, 77],
+			"name": "Suppress: Guwondas",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [23, 46, 64, 86],
+			"name": "Suppress: Predicahdrs",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [25, 50, 68, 91],
+			"name": "Suppress: Luda Sorcerers",
+			"order": {
+				"amount": 99,
+				"meseta": 1270,
+				"exp": 900
+			}
+		},
+		{
+			"schedule": [6, 33, 66, 72, 75],
+			"name": "Circuit: Forest Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 114600,
+				"exp": 12520
+			}
+		},
+		{
+			"schedule": [24, 27, 30, 36, 84],
+			"name": "Circuit: Volcanic Caves Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 121800,
+				"exp": 13840
+			}
+		},
+		{
+			"schedule": [42, 45, 48, 63, 78],
+			"name": "Circuit: Desert Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 114600,
+				"exp": 12520
+			}
+		},
+		{
+			"schedule": [9, 15, 39, 51, 57, 87],
+			"name": "Circuit: Tundra Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 121800,
+				"exp": 13840
+			}
+		},
+		{
+			"schedule": [3, 21, 60, 81, 90],
+			"name": "Circuit: Underground Shafts Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 121800,
+				"exp": 13840
+			}
+		},
+		{
+			"schedule": [12, 18, 54, 69, 93],
+			"name": "Circuit: Floating Continent Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 126600,
+				"exp": 13840
+			}
+		},
+		{
+			"schedule": [14, 29, 53, 71, 92],
+			"name": "Circuit: Ruins Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 121800,
+				"exp": 13355
+			}
+		},
+		{
+			"schedule": [32, 47, 56, 59, 80],
+			"name": "Circuit: Dragon Altar Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 121800,
+				"exp": 13855
+			}
+		},
+		{
+			"schedule": [8, 11, 17, 26, 44, 89],
+			"name": "Circuit: Coast Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 130700,
+				"exp": 14355
+			}
+		},
+		{
+			"schedule": [20, 35, 68, 74, 77],
+			"name": "Circuit: Abandoned Mine Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 130700,
+				"exp": 14355
+			}
+		},
+		{
+			"schedule": [23, 38, 62, 83, 86],
+			"name": "Circuit: Suppression of Dekor Maryudas",
+			"order": {
+				"amount": 1,
+				"meseta": 130700,
+				"exp": 14355
+			}
+		},
+		{
+			"schedule": [2, 5, 41, 50, 65],
+			"name": "Circuit: Seabed Exploration",
+			"order": {
+				"amount": 1,
+				"meseta": 130700,
+				"exp": 14500
+			}
+		},
+		{
+			"schedule": [2, 28, 54, 80],
+			"name": "Harvesting: Forest Tomatoes",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [12, 37, 62, 87],
+			"name": "Harvesting: Tundra Spring Onions",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [5, 31, 57, 83],
+			"name": "Harvesting: Ruins Grapes",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [15, 40, 65, 90],
+			"name": "Harvesting: Volcanic Caves Pumpkins",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [20, 46, 72],
+			"name": "Harvesting: Floating Continent Beans",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [8, 33, 58, 83],
+			"name": "Harvesting: Dragon Altar Radishes",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [24, 50, 76],
+			"name": "Harvesting: Desert Sanshos",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [23, 48, 73],
+			"name": "Harvesting: Underground Mushrooms",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [11, 37, 63, 89],
+			"name": "Harvesting: Abandoned Mine Potatoes",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [18, 43, 68, 93],
+			"name": "Harvesting: Coast Olives",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [21, 46, 71],
+			"name": "Harvesting: Seabed Shallots",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [14, 40, 66, 92],
+			"name": "Harvesting: Floating Facility Mints",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [5, 30, 55, 80],
+			"name": "Harvesting: Daybreak Prov. String Sprout",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [8, 34, 60, 86],
+			"name": "Harvesting: Nightfall Prov. Lotus Roots",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [17, 43, 69],
+			"name": "Harvesting: Tokyo Soybeans",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [2, 27, 52, 77],
+			"name": "Harvesting: Las Vegas Lettuces",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [11, 36, 61, 86],
+			"name": "Polefishing: Forest Sweetfish",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [21, 47, 73],
+			"name": "Polefishing: Tundra Herrings",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [14, 39, 64, 89],
+			"name": "Polefishing: Ruins Shrimp",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [6, 32, 58, 84],
+			"name": "Polefishing: Volcanic Caves Mussels",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [17, 42, 67, 92],
+			"name": "Polefishing: Floating Continent Kelp",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [12, 38, 64, 90],
+			"name": "Polefishing: Dragon Altar Fiddler Crabs",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [4, 29, 54, 79],
+			"name": "Polefishing: Desert Flounders",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [9, 35, 61, 87],
+			"name": "Polefishing: Underground Shrimp",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [1, 26, 51, 76],
+			"name": "Polefishing: Abandoned Mine Beltfish",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [3, 29, 55, 81],
+			"name": "Polefishing: Coast Littleneck Clams",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [23, 49, 75],
+			"name": "Polefishing: Seabed Iwagaki Oysters",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [24, 49, 74],
+			"name": "Polefishing: Floating Facility Squids",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [15, 41, 67, 93],
+			"name": "Polefishing: Daybreak Province Carp",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [20, 45, 70],
+			"name": "Polefishing: Nightfall Firefly Squids",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [7, 32, 57, 82],
+			"name": "Polefishing: Empty Cans",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [18, 44, 70],
+			"name": "Polefishing: Las Vegas Lobsters",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [1, 27, 53, 79],
+			"name": "Harvesting: Red Meat",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [9, 34, 59, 84],
+			"name": "Harvesting: Marbled Meat",
+			"order": {
+				"amount": 999,
+				"meseta": 350,
+				"exp": 70
+			}
+		},
+		{
+			"schedule": [16, 41, 66, 91],
+			"name": "Polefishing: Naverturtles",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [4, 30, 56, 82],
+			"name": "Polefishing: Tundra Cliones",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [3, 28, 53, 78],
+			"name": "Polefishing: Amduskia Coral",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [22, 48, 74],
+			"name": "Polefishing: Volcanic Caves Arowanas",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [26, 52, 78],
+			"name": "Polefishing: Floating Continent Tusks",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [19, 44, 69],
+			"name": "Polefishing: Dragon Altar Nautiluses",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [10, 35, 60, 85],
+			"name": "Polefishing: Lillipan Shells",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [16, 42, 68],
+			"name": "Polefishing: Underground Eagle Rays",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [7, 33, 59, 85],
+			"name": "Polefishing: Wopal Sharks",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [10, 36, 62, 88],
+			"name": "Polefishing: Petit Lodoses",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [6, 31, 56, 81],
+			"name": "Polefishing: Little Medunas",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [13, 38, 63, 88],
+			"name": "Polefishing: Surface Ship Models",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [13, 39, 65, 91],
+			"name": "Polefishing: Little Zakris",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [25, 50, 75],
+			"name": "Polefishing: Daybreak Salamanders",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [25, 51, 77],
+			"name": "Polefishing: Nightfall Sheepsheads",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [19, 45, 71],
+			"name": "Polefishing: Sand Shellfish",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		},
+		{
+			"schedule": [22, 47, 72],
+			"name": "Polefishing: Las Vegas Jaws",
+			"order": {
+				"amount": 1,
+				"meseta": 100000,
+				"exp": 15000
+			}
+		}
+	]
+}
