@@ -14,7 +14,7 @@ function getPSTDate () {
 	return date;
 }
 
-export function getDailySchedule (type, date = getPSTDate()) {
+function getDailySchedule (type, date = getPSTDate()) {
 	let now = date.getTime();
 
 	let data = require(`./data/${type}.json`);
