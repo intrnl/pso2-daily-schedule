@@ -4,7 +4,10 @@
 	"items": [
 		{
 			"schedule": [1],
-			"name": "Circuit: Buster Quest",
+			"name": {
+				"gl": "Circuit: Buster Quest",
+				"jp": "Run: Buster Quest"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -13,7 +16,10 @@
 		},
 		{
 			"schedule": [2],
-			"name": "Circuit: Ultimate Quest",
+			"name": {
+				"gl": "Circuit: Ultimate Quest",
+				"jp": "Run: Ultimate Quest"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -22,7 +28,10 @@
 		},
 		{
 			"schedule": [3],
-			"name": "Circuit: Urgent Quest",
+			"name": {
+				"gl": "Circuit: Urgent Quest",
+				"jp": "Run: Emergency Quest"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,

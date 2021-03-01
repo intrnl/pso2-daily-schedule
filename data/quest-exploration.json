@@ -4,67 +4,115 @@
 	"items": [
 		{
 			"schedule": [1],
-			"name": "Forest Exploration"
+			"name": {
+				"gl": "Forest Exploration",
+				"jp": "Forest Exploration"
+			}
 		},
 		{
 			"schedule": [2],
-			"name": "Volcanic Caves Exploration"
+			"name": {
+				"gl": "Volcanic Caves Exploration",
+				"jp": "Volcano Caves Exploration"
+			}
 		},
 		{
 			"schedule": [3],
-			"name": "Desert Exploration"
+			"name": {
+				"gl": "Desert Exploration",
+				"jp": "Desert Exploration"
+			}
 		},
 		{
 			"schedule": [4],
-			"name": "Tundra Exploration"
+			"name": {
+				"gl": "Tundra Exploration",
+				"jp": "Tundra Exploration"
+			}
 		},
 		{
 			"schedule": [5],
-			"name": "Underground Shafts Exploration"
+			"name": {
+				"gl": "Underground Shafts Exploration",
+				"jp": "Sub. Tunnels Exploration"
+			}
 		},
 		{
 			"schedule": [6],
-			"name": "Floating Continent Exploration"
+			"name": {
+				"gl": "Floating Continent Exploration",
+				"jp": "Skyscape Exploration"
+			}
 		},
 		{
 			"schedule": [7],
-			"name": "Ruins Exploration"
+			"name": {
+				"gl": "Ruins Exploration",
+				"jp": "Ruins Exploration"
+			}
 		},
 		{
 			"schedule": [8],
-			"name": "Dragon Altar Exploration"
+			"name": {
+				"gl": "Dragon Altar Exploration",
+				"jp": "Sanctum Exploration"
+			}
 		},
 		{
 			"schedule": [9],
-			"name": "Coast Exploration"
+			"name": {
+				"gl": "Coast Exploration",
+				"jp": "Coast Exploration"
+			}
 		},
 		{
 			"schedule": [10],
-			"name": "Abandoned Mine Exploration"
+			"name": {
+				"gl": "Abandoned Mine Exploration",
+				"jp": "Quarry Exploration"
+			}
 		},
 		{
 			"schedule": [11],
-			"name": "Seabed Exploration"
+			"name": {
+				"gl": "Seabed Exploration",
+				"jp": "Seabed Exploration"
+			}
 		},
 		{
 			"schedule": [12],
-			"name": "Daybreak Province Exploration"
+			"name": {
+				"gl": "Daybreak Province Exploration",
+				"jp": "Shironia Exploration"
+			}
 		},
 		{
 			"schedule": [13],
-			"name": "Floating Facility Exploration"
+			"name": {
+				"gl": "Floating Facility Exploration",
+				"jp": "Facility Exploration"
+			}
 		},
 		{
 			"schedule": [14],
-			"name": "Nightfall Province Exploration"
+			"name": {
+				"gl": "Nightfall Province Exploration",
+				"jp": "Kuron Exploration"
+			}
 		},
 		{
 			"schedule": [15],
-			"name": "Tokyo Exploration"
+			"name": {
+				"gl": "Tokyo Exploration",
+				"jp": "Tokyo Exploration"
+			}
 		},
 		{
 			"schedule": [16],
-			"name": "Las Vegas Exploration"
+			"name": {
+				"gl": "Las Vegas Exploration",
+				"jp": "Las Vegas Exploration"
+			}
 		}
 	]
 }

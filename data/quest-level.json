@@ -4,23 +4,38 @@
 	"items": [
 		{
 			"schedule": [1],
-			"name": "Chaos, Render of Tranquility"
+			"name": {
+				"gl": "Chaos, Render of Tranquility",
+				"jp": "Chaotic Tranquility"
+			}
 		},
 		{
 			"schedule": [2],
-			"name": "Disturbing Whistle of Chaos"
+			"name": {
+				"gl": "Disturbing Whistle of Chaos",
+				"jp": "The Piper of Disharmony"
+			}
 		},
 		{
 			"schedule": [3],
-			"name": "Menace of the Bewitched Castle"
+			"name": {
+				"gl": "Menace of the Bewitched Castle",
+				"jp": "The Menacing Castle"
+			}
 		},
 		{
 			"schedule": [4],
-			"name": "The Silence Born of Chaos"
+			"name": {
+				"gl": "The Silence Born of Chaos",
+				"jp": "Chaotic Silence"
+			}
 		},
 		{
 			"schedule": [5],
-			"name": "A Broken World of Twisted Shadows"
+			"name": {
+				"gl": "A Broken World of Twisted Shadows",
+				"jp": "A World Engulfed in Shadows"
+			}
 		}
 	]
 }

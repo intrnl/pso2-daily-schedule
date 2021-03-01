@@ -4,192 +4,317 @@
 	"items": [
 		{
 			"schedule": [1],
-			"name": "Destroy Giant Transforming Automata"
+			"name": {
+				"gl": "Destroy Giant Transforming Automata",
+				"jp": "Transformer Takedown"
+			}
 		},
 		{
 			"schedule": [1],
-			"name": "Seabed Region Ecological Survey"
+			"name": {
+				"gl": "Seabed Region Ecological Survey",
+				"jp": "Seabed Ecological Survey"
+			}
 		},
 
 		{
 			"schedule": [2],
-			"name": "Nav Rappy Capture"
+			"name": {
+				"gl": "Nav Rappy Capture",
+				"jp": "Nab Rappy Capture"
+			}
 		},
 		{
 			"schedule": [2],
-			"name": "Wolguarda Eradication"
+			"name": {
+				"gl": "Wolguarda Eradication",
+				"jp": "Wolgahda Extermination"
+			}
 		},
 
 		{
 			"schedule": [3],
-			"name": "Tainted Draconian Subjugation"
+			"name": {
+				"gl": "Tainted Draconian Subjugation",
+				"jp": "Berserk Dragon Suppression"
+			}
 		},
-
 		{
 			"schedule": [3],
-			"name": "Nightfaller Subjugation Mission"
+			"name": {
+				"gl": "Nightfaller Subjugation Mission",
+				"jp": "Kuronite Suppression"
+			}
 		},
 
 		{
 			"schedule": [4],
-			"name": "Suppress Catredansa"
+			"name": {
+				"gl": "Suppress Catredansa",
+				"jp": "Subdue Caterdra'nsa"
+			}
 		},
 		{
 			"schedule": [4],
-			"name": "Floating Facility Ecological Survey"
+			"name": {
+				"gl": "Floating Facility Ecological Survey",
+				"jp": "Facility Survey"
+			}
 		},
 
 		{
 			"schedule": [5],
-			"name": "ARKS Search Mission: Tundra"
+			"name": {
+				"gl": "ARKS Search Mission: Tundra",
+				"jp": "ARKS Search: Tundra"
+			}
 		},
 		{
 			"schedule": [5],
-			"name": "Suppress Sol Dirandahl"
+			"name": {
+				"gl": "Suppress Sol Dirandahl",
+				"jp": "Subdue Sol Dirandal"
+			}
 		},
 
 		{
 			"schedule": [6],
-			"name": "Ruins Enroachment Survey"
+			"name": {
+				"gl": "Ruins Enroachment Survey",
+				"jp": "Ruins Infestation Survey"
+			}
 		},
 		{
 			"schedule": [6],
-			"name": "Wopal Rescue Team"
+			"name": {
+				"gl": "Wopal Rescue Team",
+				"jp": "Wopal Rescue Team"
+			}
 		},
 
 		{
 			"schedule": [7],
-			"name": "Goron Zran Subjugation"
+			"name": {
+				"gl": "Goron Zran Subjugation",
+				"jp": "Subdue Goronzoran"
+			}
 		},
 		{
 			"schedule": [7],
-			"name": "Phantom Repulsion: Tokyo"
+			"name": {
+				"gl": "Phantom Repulsion: Tokyo",
+				"jp": "Phantom Repulsion: Tokyo"
+			}
 		},
 
 		{
 			"schedule": [8],
-			"name": "Automata Survey: Underground Shafts"
+			"name": {
+				"gl": "Automata Survey: Underground Shafts",
+				"jp": "Mech Power Survey: Tunnels"
+			}
 		},
 		{
 			"schedule": [8],
-			"name": "Suppress Anjadeurili"
+			"name": {
+				"gl": "Suppress Anjadeurili",
+				"jp": "Anjhadu-lili Demolition"
+			}
 		},
 
 		{
 			"schedule": [9],
-			"name": "Distress Signal Investigation"
+			"name": {
+				"gl": "Distress Signal Investigation",
+				"jp": "Distress Signal Investigation"
+			}
 		},
 		{
 			"schedule": [9],
-			"name": "Suppress Orgbran"
+			"name": {
+				"gl": "Suppress Orgbran",
+				"jp": "Subdue Org Blan"
+			}
 		},
 
 		{
 			"schedule": [10],
-			"name": "Rare Ore Excavation Mission"
+			"name": {
+				"gl": "Rare Ore Excavation Mission",
+				"jp": "Rare Ore Mining"
+			}
 		},
 		{
 			"schedule": [10],
-			"name": "Destroy the Moving Fortress Automata"
+			"name": {
+				"gl": "Destroy the Moving Fortress Automata",
+				"jp": "Mobile Fortress Destruction"
+			}
 		},
 
 		{
 			"schedule": [11],
-			"name": "Suppress Dekor Maryuda"
+			"name": {
+				"gl": "Suppress Dekor Maryuda",
+				"jp": "Subdue Decol Malluda"
+			}
 		},
 		{
 			"schedule": [11],
-			"name": "Nightfaller General Survey"
+			"name": {
+				"gl": "Nightfaller General Survey",
+				"jp": "Kuronite Investigation"
+			}
 		},
 
 		{
 			"schedule": [12],
-			"name": "Tundra Regional Survey"
+			"name": {
+				"gl": "Tundra Regional Survey",
+				"jp": "Tundra Regional Survey"
+			}
 		},
 		{
 			"schedule": [12],
-			"name": "Suppress Leomaduraad"
+			"name": {
+				"gl": "Suppress Leomaduraad",
+				"jp": "Subdue Rheo Madullard"
+			}
 		},
 
 		{
 			"schedule": [13],
-			"name": "Cargo Recovery: Desert"
+			"name": {
+				"gl": "Cargo Recovery: Desert",
+				"jp": "Cargo Recovery: Desert"
+			}
 		},
 		{
 			"schedule": [13],
-			"name": "Suppress Kodotta Idihta"
+			"name": {
+				"gl": "Suppress Kodotta Idihta",
+				"jp": "Codotta Idetta Subjugation"
+			}
 		},
 
 		{
 			"schedule": [14],
-			"name": "Dagan Eradication Mission: Forest"
+			"name": {
+				"gl": "Dagan Eradication Mission: Forest",
+				"jp": "Dagan Extermination: Forest"
+			}
 		},
 		{
 			"schedule": [14],
-			"name": "Suppress Train Gidrahn"
+			"name": {
+				"gl": "Suppress Train Gidrahn",
+				"jp": "Train Ghidoran Suppression"
+			}
 		},
 
 		{
 			"schedule": [15],
-			"name": "Carthago Eradication"
+			"name": {
+				"gl": "Carthago Eradication",
+				"jp": "Kartargot Extermination"
+			}
 		},
 		{
 			"schedule": [15],
-			"name": "Automata Survey: Desert"
+			"name": {
+				"gl": "Automata Survey: Desert",
+				"jp": "Mech Power Survey: Desert"
+			}
 		},
 
 		{
 			"schedule": [16],
-			"name": "Suppress Za'udan"
+			"name": {
+				"gl": "Suppress Za'udan",
+				"jp": "Subdue Za Oodan"
+			}
 		},
 		{
 			"schedule": [16],
-			"name": "Conquer the Dragon Altar"
+			"name": {
+				"gl": "Conquer the Dragon Altar",
+				"jp": "Sanctum Suppression"
+			}
 		},
 
 		{
 			"schedule": [17],
-			"name": "Suppress Cartedran"
+			"name": {
+				"gl": "Suppress Cartedran",
+				"jp": "Subdue Caterdra'n"
+			}
 		},
 		{
 			"schedule": [17],
-			"name": "Defend the Lilipan Village"
+			"name": {
+				"gl": "Defend the Lilipan Village",
+				"jp": "Lillipan Settlement Defense"
+			}
 		},
 
 		{
 			"schedule": [18],
-			"name": "Floating Continent Sample Recovery"
+			"name": {
+				"gl": "Floating Continent Sample Recovery",
+				"jp": "Sample Collection: Skyscape"
+			}
 		},
 		{
 			"schedule": [18],
-			"name": "Environment Protection Mission: Coast"
+			"name": {
+				"gl": "Environment Protection Mission: Coast",
+				"jp": "Coastal Conservation"
+			}
 		},
 
 		{
 			"schedule": [19],
-			"name": "Suppress Phongrulf"
+			"name": {
+				"gl": "Suppress Phongrulf",
+				"jp": "Subdue Fangulf"
+			}
 		},
 		{
 			"schedule": [19],
-			"name": "De Marmoth Subjugation"
+			"name": {
+				"gl": "De Marmoth Subjugation",
+				"jp": "Subdue De Malmoth"
+			}
 		},
 
 		{
 			"schedule": [20],
-			"name": "Draconian Ecology Survey"
+			"name": {
+				"gl": "Draconian Ecology Survey",
+				"jp": "Dragonkin Ecological Survey"
+			}
 		},
 		{
 			"schedule": [20],
-			"name": "Automata Survey: Abandoned Mine"
+			"name": {
+				"gl": "Automata Survey: Abandoned Mine",
+				"jp": "Mech Power Survey: Quarry"
+			}
 		},
 
 		{
 			"schedule": [21],
-			"name": "Environment Contaminator Destruction"
+			"name": {
+				"gl": "Environment Contaminator Destruction",
+				"jp": "Polluter Destruction"
+			}
 		},
 		{
 			"schedule": [21],
-			"name": "Coastal Region Ecological Survey"
+			"name": {
+				"gl": "Coastal Region Ecological Survey",
+				"jp": "Coastal Ecological Survey"
+			}
 		}
 	]
 }

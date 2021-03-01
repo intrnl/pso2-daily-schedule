@@ -4,7 +4,10 @@
 	"items": [
 		{
 			"schedule": [1],
-			"name": "Suppress: Naverian Sylvants",
+			"name": {
+				"gl": "Suppress: Naverian Sylvants",
+				"jp": "Defeat: Naberius Natives"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -13,7 +16,10 @@
 		},
 		{
 			"schedule": [1],
-			"name": "Suppress: Garongoes",
+			"name": {
+				"gl": "Suppress: Garongoes",
+				"jp": "Defeat: Garongo"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -22,7 +28,10 @@
 		},
 		{
 			"schedule": [1],
-			"name": "Suppress: Fang Banshee(s)",
+			"name": {
+				"gl": "Suppress: Fang Banshee(s)",
+				"jp": "Defeat: Fang Banshee"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -32,7 +41,10 @@
 
 		{
 			"schedule": [2],
-			"name": "Suppress: Draconians",
+			"name": {
+				"gl": "Suppress: Draconians",
+				"jp": "Defeat: Dragonkin"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -41,7 +53,10 @@
 		},
 		{
 			"schedule": [2],
-			"name": "Suppress: Nordeerans",
+			"name": {
+				"gl": "Suppress: Nordeerans",
+				"jp": "Defeat: Nordiran"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -50,7 +65,10 @@
 		},
 		{
 			"schedule": [2],
-			"name": "Suppress: Vol Dragon(s)",
+			"name": {
+				"gl": "Suppress: Vol Dragon(s)",
+				"jp": "Defeat: Vol Dragon"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -60,7 +78,10 @@
 
 		{
 			"schedule": [3],
-			"name": "Suppress: Automata",
+			"name": {
+				"gl": "Suppress: Automata",
+				"jp": "Defeat: Mechs"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -69,7 +90,10 @@
 		},
 		{
 			"schedule": [3],
-			"name": "Suppress: Spardun As",
+			"name": {
+				"gl": "Suppress: Spardun As",
+				"jp": "Defeat: Spardan A"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -78,7 +102,10 @@
 		},
 		{
 			"schedule": [3],
-			"name": "Suppress: Gwanadas",
+			"name": {
+				"gl": "Suppress: Gwanadas",
+				"jp": "Defeat: Gwanahda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -88,7 +115,10 @@
 
 		{
 			"schedule": [4],
-			"name": "Suppress: Naverian Sylvants",
+			"name": {
+				"gl": "Suppress: Naverian Sylvants",
+				"jp": "Defeat: Naberius Natives"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -97,7 +127,10 @@
 		},
 		{
 			"schedule": [4],
-			"name": "Suppress: King Yedis",
+			"name": {
+				"gl": "Suppress: King Yedis",
+				"jp": "Defeat: King Yede"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -106,7 +139,10 @@
 		},
 		{
 			"schedule": [4],
-			"name": "Suppress: Snow Banshee(s)",
+			"name": {
+				"gl": "Suppress: Snow Banshee(s)",
+				"jp": "Defeat: Snow Banshee"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -116,7 +152,10 @@
 
 		{
 			"schedule": [5],
-			"name": "Suppress: Automata",
+			"name": {
+				"gl": "Suppress: Automata",
+				"jp": "Defeat: Mechs"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -125,7 +164,10 @@
 		},
 		{
 			"schedule": [5],
-			"name": "Suppress: Signo Beats",
+			"name": {
+				"gl": "Suppress: Signo Beats",
+				"jp": "Defeat: Signo Beat"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -134,7 +176,10 @@
 		},
 		{
 			"schedule": [5],
-			"name": "Suppress: Big Varder(s)",
+			"name": {
+				"gl": "Suppress: Big Varder(s)",
+				"jp": "Defeat: Big Vardha"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -144,7 +189,10 @@
 
 		{
 			"schedule": [6],
-			"name": "Suppress: Draconians",
+			"name": {
+				"gl": "Suppress: Draconians",
+				"jp": "Defeat: Dragonkin"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -153,7 +201,10 @@
 		},
 		{
 			"schedule": [6],
-			"name": "Suppress: Nordeeransas",
+			"name": {
+				"gl": "Suppress: Nordeeransas",
+				"jp": "Defeat: Nordiransa"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -162,7 +213,10 @@
 		},
 		{
 			"schedule": [6],
-			"name": "Suppress: Quartz Dragon(s)",
+			"name": {
+				"gl": "Suppress: Quartz Dragon(s)",
+				"jp": "Defeat: Quartz Dragon"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -172,7 +226,10 @@
 
 		{
 			"schedule": [7],
-			"name": "Suppress: Falspawn",
+			"name": {
+				"gl": "Suppress: Falspawn",
+				"jp": "Defeat: Darkers"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -181,7 +238,10 @@
 		},
 		{
 			"schedule": [7],
-			"name": "Suppress: Cuchronahdas",
+			"name": {
+				"gl": "Suppress: Cuchronahdas",
+				"jp": "Defeat: Kuklonahda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -190,7 +250,10 @@
 		},
 		{
 			"schedule": [7],
-			"name": "Suppress: Zeshraiders",
+			"name": {
+				"gl": "Suppress: Zeshraiders",
+				"jp": "Defeat: Zeshrayda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -200,7 +263,10 @@
 
 		{
 			"schedule": [8],
-			"name": "Suppress: Draconians",
+			"name": {
+				"gl": "Suppress: Draconians",
+				"jp": "Defeat: Dragonkin"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -209,7 +275,10 @@
 		},
 		{
 			"schedule": [8],
-			"name": "Suppress: Dirandahls",
+			"name": {
+				"gl": "Suppress: Dirandahls",
+				"jp": "Defeat: Dirandal"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -218,7 +287,10 @@
 		},
 		{
 			"schedule": [8],
-			"name": "Suppress: Dragon X(s)",
+			"name": {
+				"gl": "Suppress: Dragon X(s)",
+				"jp": "Defeat: Dragon Ex"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -228,7 +300,10 @@
 
 		{
 			"schedule": [9],
-			"name": "Suppress: Oceanids",
+			"name": {
+				"gl": "Suppress: Oceanids",
+				"jp": "Defeat: Oceanids"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -237,7 +312,10 @@
 		},
 		{
 			"schedule": [9],
-			"name": "Suppress: Luda Sorcerers",
+			"name": {
+				"gl": "Suppress: Luda Sorcerers",
+				"jp": "Defeat: Luda Sorcerer"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -246,7 +324,10 @@
 		},
 		{
 			"schedule": [9],
-			"name": "Suppress: Bar Lodoses",
+			"name": {
+				"gl": "Suppress: Bar Lodoses",
+				"jp": "Defeat: Bal Rodos"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -256,7 +337,10 @@
 
 		{
 			"schedule": [10],
-			"name": "Suppress: Automata",
+			"name": {
+				"gl": "Suppress: Automata",
+				"jp": "Defeat: Mechs"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -265,7 +349,10 @@
 		},
 		{
 			"schedule": [10],
-			"name": "Suppress: Jagd Dingales",
+			"name": {
+				"gl": "Suppress: Jagd Dingales",
+				"jp": "Defeat: Jagd Dingell"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -274,7 +361,10 @@
 		},
 		{
 			"schedule": [10],
-			"name": "Suppress: Bryu Ringahdas",
+			"name": {
+				"gl": "Suppress: Bryu Ringahdas",
+				"jp": "Defeat: Blu Ringahda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -284,7 +374,10 @@
 
 		{
 			"schedule": [11],
-			"name": "Suppress: Oceanids",
+			"name": {
+				"gl": "Suppress: Oceanids",
+				"jp": "Defeat: Oceanids"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -293,7 +386,10 @@
 		},
 		{
 			"schedule": [11],
-			"name": "Suppress: Vid Giroses",
+			"name": {
+				"gl": "Suppress: Vid Giroses",
+				"jp": "Defeat: Vid Gilos"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -302,7 +398,10 @@
 		},
 		{
 			"schedule": [11],
-			"name": "Suppress: Biol Medunas",
+			"name": {
+				"gl": "Suppress: Biol Medunas",
+				"jp": "Defeat: Biol Meduna"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -312,7 +411,10 @@
 
 		{
 			"schedule": [12],
-			"name": "Suppress: Nightfallers",
+			"name": {
+				"gl": "Suppress: Nightfallers",
+				"jp": "Defeat: Kuronites"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -321,7 +423,10 @@
 		},
 		{
 			"schedule": [12],
-			"name": "Suppress: Anshizagris",
+			"name": {
+				"gl": "Suppress: Anshizagris",
+				"jp": "Defeat: Anushi-zagri"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -330,7 +435,10 @@
 		},
 		{
 			"schedule": [12],
-			"name": "Suppress: Gigur Gunnegams",
+			"name": {
+				"gl": "Suppress: Gigur Gunnegams",
+				"jp": "Defeat: Gigur Gunne-gam"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -340,7 +448,10 @@
 
 		{
 			"schedule": [13],
-			"name": "Suppress: Oceanids",
+			"name": {
+				"gl": "Suppress: Oceanids",
+				"jp": "Defeat: Oceanids"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -349,7 +460,10 @@
 		},
 		{
 			"schedule": [13],
-			"name": "Suppress: Nept Casadohras",
+			"name": {
+				"gl": "Suppress: Nept Casadohras",
+				"jp": "Defeat: Nepto Cassadora"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 18000,
@@ -358,7 +472,10 @@
 		},
 		{
 			"schedule": [13],
-			"name": "Suppress: Leomaduraads",
+			"name": {
+				"gl": "Suppress: Leomaduraads",
+				"jp": "Defeat: Rheo Madullard"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 18000,
@@ -368,7 +485,10 @@
 
 		{
 			"schedule": [14],
-			"name": "Suppress: Nightfallers",
+			"name": {
+				"gl": "Suppress: Nightfallers",
+				"jp": "Defeat: Kuronites"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -377,7 +497,10 @@
 		},
 		{
 			"schedule": [14],
-			"name": "Suppress: Orogrels",
+			"name": {
+				"gl": "Suppress: Orogrels",
+				"jp": "Defeat: Oro-ogar"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -386,7 +509,10 @@
 		},
 		{
 			"schedule": [14],
-			"name": "Suppress: Gwahl Jigmoldes",
+			"name": {
+				"gl": "Suppress: Gwahl Jigmoldes",
+				"jp": "Defeat: Guar Zigmorde"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -396,7 +522,10 @@
 
 		{
 			"schedule": [15],
-			"name": "Suppress: Phantasms",
+			"name": {
+				"gl": "Suppress: Phantasms",
+				"jp": "Defeat: Phantoms"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -405,7 +534,10 @@
 		},
 		{
 			"schedule": [15],
-			"name": "Suppress: T-Rexes",
+			"name": {
+				"gl": "Suppress: T-Rexes",
+				"jp": "Defeat: T. Rex"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -414,7 +546,10 @@
 		},
 		{
 			"schedule": [15],
-			"name": "Suppress: Train Gidran(s)",
+			"name": {
+				"gl": "Suppress: Train Gidran(s)",
+				"jp": "Defeat: Train Ghidoran"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -424,7 +559,10 @@
 
 		{
 			"schedule": [16],
-			"name": "Suppress: Phantasms",
+			"name": {
+				"gl": "Suppress: Phantasms",
+				"jp": "Defeat: Phantoms"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -433,7 +571,10 @@
 		},
 		{
 			"schedule": [16],
-			"name": "Suppress: UFOs",
+			"name": {
+				"gl": "Suppress: UFOs",
+				"jp": "Defeat: U.F.O"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -442,7 +583,10 @@
 		},
 		{
 			"schedule": [16],
-			"name": "Suppress: Vegas lllusia",
+			"name": {
+				"gl": "Suppress: Vegas lllusia",
+				"jp": "Defeat: Vegas Illusia"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,

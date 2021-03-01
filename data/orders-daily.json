@@ -4,7 +4,10 @@
 	"items": [
 		{
 			"schedule": [7, 57, 64],
-			"name": "Collect: Udan Fur I",
+			"name": {
+				"gl": "Collect: Udan Fur I",
+				"jp": "Collect: Oodan Fur I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 5700,
@@ -13,7 +16,10 @@
 		},
 		{
 			"schedule": [25, 69],
-			"name": "Collect: Udan Fur II",
+			"name": {
+				"gl": "Collect: Udan Fur II",
+				"jp": "Collect: Oodan Fur II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 152,
@@ -22,7 +28,10 @@
 		},
 		{
 			"schedule": [19, 40, 63],
-			"name": "Collect: Za'udan Spikes I",
+			"name": {
+				"gl": "Collect: Za'udan Spikes I",
+				"jp": "Collect: Za Oodan Spines I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 5700,
@@ -31,7 +40,10 @@
 		},
 		{
 			"schedule": [34, 75],
-			"name": "Collect: Za'udan Spikes II",
+			"name": {
+				"gl": "Collect: Za'udan Spikes II",
+				"jp": "Collect: Za Oodan Spines II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 152,
@@ -40,7 +52,10 @@
 		},
 		{
 			"schedule": [1, 51, 88],
-			"name": "Collect: Nav Rappy Feathers I",
+			"name": {
+				"gl": "Collect: Nav Rappy Feathers I",
+				"jp": "Collect: N. Rappy Feathers I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 5700,
@@ -49,7 +64,10 @@
 		},
 		{
 			"schedule": [13, 60],
-			"name": "Collect: Nav Rappy Feathers II",
+			"name": {
+				"gl": "Collect: Nav Rappy Feathers II",
+				"jp": "Collect: N. Rappy Feathers II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 152,
@@ -58,7 +76,10 @@
 		},
 		{
 			"schedule": [16, 31, 72],
-			"name": "Collect: Nordeeran Tails I",
+			"name": {
+				"gl": "Collect: Nordeeran Tails I",
+				"jp": "Collect: Nordiran Tails I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6500,
@@ -67,7 +88,10 @@
 		},
 		{
 			"schedule": [43, 84],
-			"name": "Collect: Nordeeran Tails II",
+			"name": {
+				"gl": "Collect: Nordeeran Tails II",
+				"jp": "Collect: Nordiran Tails II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 171,
@@ -76,7 +100,10 @@
 		},
 		{
 			"schedule": [37, 78, 81],
-			"name": "Collect: Sil Deenian Scales I",
+			"name": {
+				"gl": "Collect: Sil Deenian Scales I",
+				"jp": "Collect: Sil Dinian Scales I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6500,
@@ -85,7 +112,10 @@
 		},
 		{
 			"schedule": [49, 93],
-			"name": "Collect: Sil Deenian Scales II",
+			"name": {
+				"gl": "Collect: Sil Deenian Scales II",
+				"jp": "Collect: Sil Dinian Scales II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 171,
@@ -94,7 +124,10 @@
 		},
 		{
 			"schedule": [46, 54, 87],
-			"name": "Collect: Sol Deenian Fangs I",
+			"name": {
+				"gl": "Collect: Sol Deenian Fangs I",
+				"jp": "Collect: Sol Dinian Fangs I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6500,
@@ -103,7 +136,10 @@
 		},
 		{
 			"schedule": [12, 58],
-			"name": "Collect: Sol Deenian Fangs II",
+			"name": {
+				"gl": "Collect: Sol Deenian Fangs II",
+				"jp": "Collect: Sol Dinian Fangs II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 171,
@@ -112,7 +148,10 @@
 		},
 		{
 			"schedule": [6, 55],
-			"name": "Collect: Vol Dragon Claws I",
+			"name": {
+				"gl": "Collect: Vol Dragon Claws I",
+				"jp": "Collect: V. Dragon Claws I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 7000,
@@ -121,7 +160,10 @@
 		},
 		{
 			"schedule": [18, 67],
-			"name": "Collect: Vol Dragon Claws II",
+			"name": {
+				"gl": "Collect: Vol Dragon Claws II",
+				"jp": "Collect: V. Dragon Claws II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 328,
@@ -130,7 +172,10 @@
 		},
 		{
 			"schedule": [15, 30, 61],
-			"name": "Collect: Krahda Mandibles I",
+			"name": {
+				"gl": "Collect: Krahda Mandibles I",
+				"jp": "Collect: Krahda Mandibles I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6500,
@@ -139,7 +184,10 @@
 		},
 		{
 			"schedule": [27, 73],
-			"name": "Collect: Krahda Mandibles II",
+			"name": {
+				"gl": "Collect: Krahda Mandibles II",
+				"jp": "Collect: Krahda Mandibles II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 171,
@@ -148,7 +196,10 @@
 		},
 		{
 			"schedule": [22, 24, 70],
-			"name": "Collect: El Arda Wings I",
+			"name": {
+				"gl": "Collect: El Arda Wings I",
+				"jp": "Collect: El Ahda Wings I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6500,
@@ -157,7 +208,10 @@
 		},
 		{
 			"schedule": [36, 82],
-			"name": "Collect: El Arda Wings II",
+			"name": {
+				"gl": "Collect: El Arda Wings II",
+				"jp": "Collect: El Ahda Wings II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 260,
@@ -166,7 +220,10 @@
 		},
 		{
 			"schedule": [9, 33, 79],
-			"name": "Collect: Izaogal Horns",
+			"name": {
+				"gl": "Collect: Izaogal Horns",
+				"jp": "Collect: Iza-ogar Horns"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 430,
@@ -175,7 +232,10 @@
 		},
 		{
 			"schedule": [4, 39, 85],
-			"name": "Collect: Pitta Wadda Rings",
+			"name": {
+				"gl": "Collect: Pitta Wadda Rings",
+				"jp": "Collect: Pitta Wadda Rings"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 430,
@@ -184,7 +244,10 @@
 		},
 		{
 			"schedule": [10, 45, 91],
-			"name": "Collect: Silt Grimian Shells",
+			"name": {
+				"gl": "Collect: Silt Grimian Shells",
+				"jp": "Collect: Schilt Grimian Shells"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -193,7 +256,10 @@
 		},
 		{
 			"schedule": [3, 48, 90],
-			"name": "Collect: Lanz Valehda Tailblades",
+			"name": {
+				"gl": "Collect: Lanz Valehda Tailblades",
+				"jp": "Collect: Lanz Vareda Tail Blades"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -202,7 +268,10 @@
 		},
 		{
 			"schedule": [28, 52, 76],
-			"name": "Collect: Zombie's Neckties",
+			"name": {
+				"gl": "Collect: Zombie's Neckties",
+				"jp": "Collect: Zombie Necktie"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -211,7 +280,10 @@
 		},
 		{
 			"schedule": [21, 42, 66],
-			"name": "Collect: Rollers of the Road Rollers",
+			"name": {
+				"gl": "Collect: Rollers of the Road Rollers",
+				"jp": "Collect: Road Roller Roller"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -220,7 +292,10 @@
 		},
 		{
 			"schedule": [7, 49],
-			"name": "Suppress: Agnises I",
+			"name": {
+				"gl": "Suppress: Agnises I",
+				"jp": "Defeat: Aginis I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 23500,
@@ -229,7 +304,10 @@
 		},
 		{
 			"schedule": [16, 61],
-			"name": "Suppress: Agnises II",
+			"name": {
+				"gl": "Suppress: Agnises II",
+				"jp": "Defeat: Aginis II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 470,
@@ -238,7 +316,10 @@
 		},
 		{
 			"schedule": [28, 70],
-			"name": "Suppress: Garongoes I",
+			"name": {
+				"gl": "Suppress: Garongoes I",
+				"jp": "Defeat: Garongo I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 23500,
@@ -247,7 +328,10 @@
 		},
 		{
 			"schedule": [40, 82],
-			"name": "Suppress: Garongoes II",
+			"name": {
+				"gl": "Suppress: Garongoes II",
+				"jp": "Defeat: Garongo II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 710,
@@ -256,7 +340,10 @@
 		},
 		{
 			"schedule": [10, 31, 64],
-			"name": "Suppress: Deegs I",
+			"name": {
+				"gl": "Suppress: Deegs I",
+				"jp": "Defeat: Digg I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 23500,
@@ -265,7 +352,10 @@
 		},
 		{
 			"schedule": [22, 52, 76],
-			"name": "Suppress: Deegs II",
+			"name": {
+				"gl": "Suppress: Deegs II",
+				"jp": "Defeat: Digg II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 470,
@@ -274,7 +364,10 @@
 		},
 		{
 			"schedule": [1, 55],
-			"name": "Suppress: Catredrans I",
+			"name": {
+				"gl": "Suppress: Catredrans I",
+				"jp": "Defeat: Caterdra'n I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 46530,
@@ -283,7 +376,10 @@
 		},
 		{
 			"schedule": [34, 88],
-			"name": "Suppress: Pajigeeris",
+			"name": {
+				"gl": "Suppress: Pajigeeris",
+				"jp": "Defeat: Paji-ghiry"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -292,7 +388,10 @@
 		},
 		{
 			"schedule": [25],
-			"name": "Suppress: Anshizagris",
+			"name": {
+				"gl": "Suppress: Anshizagris",
+				"jp": "Defeat: Anushi-zagri"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -301,7 +400,10 @@
 		},
 		{
 			"schedule": [4, 67],
-			"name": "Suppress: Izaogals",
+			"name": {
+				"gl": "Suppress: Izaogals",
+				"jp": "Defeat: Iza-ogar"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -310,7 +412,10 @@
 		},
 		{
 			"schedule": [13, 79],
-			"name": "Suppress: Adaogals",
+			"name": {
+				"gl": "Suppress: Adaogals",
+				"jp": "Defeat: Ado-ogar"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -319,7 +424,10 @@
 		},
 		{
 			"schedule": [58],
-			"name": "Suppress: Gannagams",
+			"name": {
+				"gl": "Suppress: Gannagams",
+				"jp": "Defeat: Ganna-gam"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 45000,
@@ -328,7 +436,10 @@
 		},
 		{
 			"schedule": [46],
-			"name": "Suppress: Rerangams",
+			"name": {
+				"gl": "Suppress: Rerangams",
+				"jp": "Defeat: Leran-gam"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 45000,
@@ -337,7 +448,10 @@
 		},
 		{
 			"schedule": [43, 85],
-			"name": "Suppress: Pitta Waddas",
+			"name": {
+				"gl": "Suppress: Pitta Waddas",
+				"jp": "Defeat: Pitta Wadda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -346,7 +460,10 @@
 		},
 		{
 			"schedule": [11],
-			"name": "Suppress: Prata Picohdas",
+			"name": {
+				"gl": "Suppress: Prata Picohdas",
+				"jp": "Defeat: Parata Picoda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -355,7 +472,10 @@
 		},
 		{
 			"schedule": [23, 68],
-			"name": "Suppress: Bonta Beaddas",
+			"name": {
+				"gl": "Suppress: Bonta Beaddas",
+				"jp": "Defeat: Bonta Bearadda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -364,7 +484,10 @@
 		},
 		{
 			"schedule": [38, 92],
-			"name": "Suppress: Gigur Gunnegams",
+			"name": {
+				"gl": "Suppress: Gigur Gunnegams",
+				"jp": "Defeat: Gigur Gunne-gam"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 45000,
@@ -373,7 +496,10 @@
 		},
 		{
 			"schedule": [5],
-			"name": "Suppress: Falgurbons",
+			"name": {
+				"gl": "Suppress: Falgurbons",
+				"jp": "Defeat: Falgarbon"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -382,7 +508,10 @@
 		},
 		{
 			"schedule": [14, 65],
-			"name": "Suppress: Dalbolupuses",
+			"name": {
+				"gl": "Suppress: Dalbolupuses",
+				"jp": "Defeat: Tarvolpus"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -391,7 +520,10 @@
 		},
 		{
 			"schedule": [29],
-			"name": "Suppress: Branadians",
+			"name": {
+				"gl": "Suppress: Branadians",
+				"jp": "Defeat: Vlanadian"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -400,7 +532,10 @@
 		},
 		{
 			"schedule": [50, 86],
-			"name": "Suppress: Silt Grimians",
+			"name": {
+				"gl": "Suppress: Silt Grimians",
+				"jp": "Defeat: Schilt Grimian"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -409,7 +544,10 @@
 		},
 		{
 			"schedule": [41, 77],
-			"name": "Suppress: Banoridians",
+			"name": {
+				"gl": "Suppress: Banoridians",
+				"jp": "Defeat: Banoridian"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -418,7 +556,10 @@
 		},
 		{
 			"schedule": [32],
-			"name": "Suppress: Davrunes",
+			"name": {
+				"gl": "Suppress: Davrunes",
+				"jp": "Defeat: Doublune"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -427,7 +568,10 @@
 		},
 		{
 			"schedule": [47],
-			"name": "Suppress: Davrundas",
+			"name": {
+				"gl": "Suppress: Davrundas",
+				"jp": "Defeat: Doublunda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -436,7 +580,10 @@
 		},
 		{
 			"schedule": [59, 83],
-			"name": "Suppress: Lanz Valehdas",
+			"name": {
+				"gl": "Suppress: Lanz Valehdas",
+				"jp": "Defeat: Lanz Vareda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -445,7 +592,10 @@
 		},
 		{
 			"schedule": [20, 74],
-			"name": "Suppress: Leomaduraads",
+			"name": {
+				"gl": "Suppress: Leomaduraads",
+				"jp": "Defeat: Rheo Madullard"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -454,7 +604,10 @@
 		},
 		{
 			"schedule": [19, 73],
-			"name": "Suppress: Nept Casadohras",
+			"name": {
+				"gl": "Suppress: Nept Casadohras",
+				"jp": "Defeat: Nepto Cassadora"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -463,7 +616,10 @@
 		},
 		{
 			"schedule": [8],
-			"name": "Suppress: Rat Phants",
+			"name": {
+				"gl": "Suppress: Rat Phants",
+				"jp": "Defeat: Rat Phamut"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -472,7 +628,10 @@
 		},
 		{
 			"schedule": [17],
-			"name": "Suppress: Sword Zombies",
+			"name": {
+				"gl": "Suppress: Sword Zombies",
+				"jp": "Defeat: Dosu Zombie"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -481,7 +640,10 @@
 		},
 		{
 			"schedule": [26],
-			"name": "Suppress: Heat-packing Zombies",
+			"name": {
+				"gl": "Suppress: Heat-packing Zombies",
+				"jp": "Defeat: Chaka Zombie"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -490,7 +652,10 @@
 		},
 		{
 			"schedule": [35],
-			"name": "Suppress: Brown Bears",
+			"name": {
+				"gl": "Suppress: Brown Bears",
+				"jp": "Defeat: Brown Bear"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -499,7 +664,10 @@
 		},
 		{
 			"schedule": [44],
-			"name": "Suppress: Polar Bears",
+			"name": {
+				"gl": "Suppress: Polar Bears",
+				"jp": "Defeat: Polar Bear"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -508,7 +676,10 @@
 		},
 		{
 			"schedule": [37, 91],
-			"name": "Suppress: T15 Tanks",
+			"name": {
+				"gl": "Suppress: T15 Tanks",
+				"jp": "Defeat: Type-15 Tank"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -517,7 +688,10 @@
 		},
 		{
 			"schedule": [53],
-			"name": "Suppress: T-Rexes",
+			"name": {
+				"gl": "Suppress: T-Rexes",
+				"jp": "Defeat: T. Rex"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -526,7 +700,10 @@
 		},
 		{
 			"schedule": [62, 80],
-			"name": "Suppress: Road Rollers",
+			"name": {
+				"gl": "Suppress: Road Rollers",
+				"jp": "Defeat: Road Roller"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -535,7 +712,10 @@
 		},
 		{
 			"schedule": [71, 89],
-			"name": "Suppress: Snakehelis",
+			"name": {
+				"gl": "Suppress: Snakehelis",
+				"jp": "Defeat: Snake Helicopter"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -544,7 +724,10 @@
 		},
 		{
 			"schedule": [2, 56],
-			"name": "Suppress: Train Gidran(s)",
+			"name": {
+				"gl": "Suppress: Train Gidran(s)",
+				"jp": "Defeat: Train Ghidoran"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -553,7 +736,10 @@
 		},
 		{
 			"schedule": [12, 24, 33, 45, 60, 87],
-			"name": "Circuit: Nav Rappy Capture Mission I",
+			"name": {
+				"gl": "Circuit: Nav Rappy Capture Mission I",
+				"jp": "Run: Nab Rappy Capture I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -562,7 +748,10 @@
 		},
 		{
 			"schedule": [15, 30, 50, 59, 72, 86],
-			"name": "Circuit: Carthago Eradication",
+			"name": {
+				"gl": "Circuit: Carthago Eradication",
+				"jp": "Run: Kartargot Extermination"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -571,7 +760,10 @@
 		},
 		{
 			"schedule": [18, 35, 54, 66, 80, 90],
-			"name": "Circuit: Resource Transport: Desert",
+			"name": {
+				"gl": "Circuit: Resource Transport: Desert",
+				"jp": "Run: Cargo Recovery: Desert"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -580,7 +772,10 @@
 		},
 		{
 			"schedule": [2, 26, 39, 48, 62, 74, 92],
-			"name": "Circuit: Suppression of Anjadeurilis",
+			"name": {
+				"gl": "Circuit: Suppression of Anjadeurilis",
+				"jp": "Run: Anjhadu-lili Demolition"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -589,7 +784,10 @@
 		},
 		{
 			"schedule": [6, 11, 38, 42, 56, 63, 78],
-			"name": "Circuit: Suppression of Leomaduraads",
+			"name": {
+				"gl": "Circuit: Suppression of Leomaduraads",
+				"jp": "Run: Subdue Rheo Madullard"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -598,7 +796,10 @@
 		},
 		{
 			"schedule": [5, 41, 77],
-			"name": "Circuit: Naverius Advanced Dash N",
+			"name": {
+				"gl": "Circuit: Naverius Advanced Dash N",
+				"jp": "Run: Naberius Advanced Marathon N"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -607,7 +808,10 @@
 		},
 		{
 			"schedule": [17, 53, 89],
-			"name": "Circuit: Lillipan Dash N",
+			"name": {
+				"gl": "Circuit: Lillipan Dash N",
+				"jp": "Run: Lillipa Marathon N"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -616,7 +820,10 @@
 		},
 		{
 			"schedule": [23, 29, 65],
-			"name": "Circuit: Amduskia Dash N",
+			"name": {
+				"gl": "Circuit: Amduskia Dash N",
+				"jp": "Run: Amduscia Marathon N"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 39900,
@@ -625,7 +832,10 @@
 		},
 		{
 			"schedule": [3, 27, 51, 71, 75, 83, 93],
-			"name": "Circuit: Daybreak Province Exploration",
+			"name": {
+				"gl": "Circuit: Daybreak Province Exploration",
+				"jp": "Run: Shironia Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -634,7 +844,10 @@
 		},
 		{
 			"schedule": [9, 14, 21, 47, 57, 69, 81],
-			"name": "Circuit: Floating Facility Exploration",
+			"name": {
+				"gl": "Circuit: Floating Facility Exploration",
+				"jp": "Run: Facility Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -643,7 +856,10 @@
 		},
 		{
 			"schedule": [8, 20, 32, 36, 44, 68, 84],
-			"name": "Circuit: Tokyo Exploration",
+			"name": {
+				"gl": "Circuit: Tokyo Exploration",
+				"jp": "Run: Tokyo Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -652,7 +868,10 @@
 		},
 		{
 			"schedule": [8, 38],
-			"name": "Collect: Grulf Fangs I",
+			"name": {
+				"gl": "Collect: Grulf Fangs I",
+				"jp": "Collect: Gulf Fangs I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6300,
@@ -661,7 +880,10 @@
 		},
 		{
 			"schedule": [68],
-			"name": "Collect: Grulf Fangs II",
+			"name": {
+				"gl": "Collect: Grulf Fangs II",
+				"jp": "Collect: Gulf Fangs II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 168,
@@ -670,7 +892,10 @@
 		},
 		{
 			"schedule": [56],
-			"name": "Collect: Phongrulf Claws I",
+			"name": {
+				"gl": "Collect: Phongrulf Claws I",
+				"jp": "Collect: Fangulf Claws I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 4200,
@@ -679,7 +904,10 @@
 		},
 		{
 			"schedule": [14],
-			"name": "Collect: Phongrulf Claws II",
+			"name": {
+				"gl": "Collect: Phongrulf Claws II",
+				"jp": "Collect: Fangulf Claws II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 224,
@@ -688,7 +916,10 @@
 		},
 		{
 			"schedule": [62, 77],
-			"name": "Collect: Dagan Carapaces I",
+			"name": {
+				"gl": "Collect: Dagan Carapaces I",
+				"jp": "Collect: Dagan Carapaces I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 7200,
@@ -697,7 +928,10 @@
 		},
 		{
 			"schedule": [50],
-			"name": "Collect: Dagan Carapaces II",
+			"name": {
+				"gl": "Collect: Dagan Carapaces II",
+				"jp": "Collect: Dagan Carapaces II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 192,
@@ -706,7 +940,10 @@
 		},
 		{
 			"schedule": [53, 83, 89],
-			"name": "Collect: Fodran Manes I",
+			"name": {
+				"gl": "Collect: Fodran Manes I",
+				"jp": "Collect: Fordoran Manes I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 3500,
@@ -715,7 +952,10 @@
 		},
 		{
 			"schedule": [11],
-			"name": "Collect: Fodran Manes II",
+			"name": {
+				"gl": "Collect: Fodran Manes II",
+				"jp": "Collect: Fordoran Manes II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 280,
@@ -724,7 +964,10 @@
 		},
 		{
 			"schedule": [29, 59],
-			"name": "Collect: Deenian Fins I",
+			"name": {
+				"gl": "Collect: Deenian Fins I",
+				"jp": "Collect: Dinian Fins I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2800,
@@ -733,7 +976,10 @@
 		},
 		{
 			"schedule": [35],
-			"name": "Collect: Deenian Fins II",
+			"name": {
+				"gl": "Collect: Deenian Fins II",
+				"jp": "Collect: Dinian Fins II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 224,
@@ -742,7 +988,10 @@
 		},
 		{
 			"schedule": [92],
-			"name": "Collect: Signogun Barrels I",
+			"name": {
+				"gl": "Collect: Signogun Barrels I",
+				"jp": "Collect: S. Gun Barrels I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 4200,
@@ -751,7 +1000,10 @@
 		},
 		{
 			"schedule": [41],
-			"name": "Collect: Signogun Barrels II",
+			"name": {
+				"gl": "Collect: Signogun Barrels II",
+				"jp": "Collect: S. Gun Barrels II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 224,
@@ -760,7 +1012,10 @@
 		},
 		{
 			"schedule": [5, 44],
-			"name": "Collect: Carthago Legs I",
+			"name": {
+				"gl": "Collect: Carthago Legs I",
+				"jp": "Collect: Kartargot Legs I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2925,
@@ -769,7 +1024,10 @@
 		},
 		{
 			"schedule": [32],
-			"name": "Collect: Carthago Legs II",
+			"name": {
+				"gl": "Collect: Carthago Legs II",
+				"jp": "Collect: Kartargot Legs II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 234,
@@ -778,7 +1036,10 @@
 		},
 		{
 			"schedule": [47, 80],
-			"name": "Collect: Garongo Molars I",
+			"name": {
+				"gl": "Collect: Garongo Molars I",
+				"jp": "Collect: Garongo Molars I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2800,
@@ -787,7 +1048,10 @@
 		},
 		{
 			"schedule": [23, 86],
-			"name": "Collect: Garongo Molars II",
+			"name": {
+				"gl": "Collect: Garongo Molars II",
+				"jp": "Collect: Garongo Molars II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 448,
@@ -796,7 +1060,10 @@
 		},
 		{
 			"schedule": [91],
-			"name": "Collect: Spargun Ordnance I",
+			"name": {
+				"gl": "Collect: Spargun Ordnance I",
+				"jp": "Collect: Spargun Grenades I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6000,
@@ -805,7 +1072,10 @@
 		},
 		{
 			"schedule": [4, 22],
-			"name": "Collect: Spargun Ordnance II",
+			"name": {
+				"gl": "Collect: Spargun Ordnance II",
+				"jp": "Collect: Spargun Grenades II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 240,
@@ -814,7 +1084,10 @@
 		},
 		{
 			"schedule": [71],
-			"name": "Collect: Gwanada Carapaces I",
+			"name": {
+				"gl": "Collect: Gwanada Carapaces I",
+				"jp": "Collect: Gwanahda Carapaces I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2520,
@@ -823,7 +1096,10 @@
 		},
 		{
 			"schedule": [65],
-			"name": "Collect: Gwanada Carapaces II",
+			"name": {
+				"gl": "Collect: Gwanada Carapaces II",
+				"jp": "Collect: Gwanahda Carapaces II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 504,
@@ -832,7 +1108,10 @@
 		},
 		{
 			"schedule": [61],
-			"name": "Collect: Yedi Fur I",
+			"name": {
+				"gl": "Collect: Yedi Fur I",
+				"jp": "Collect: Yede Fur I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -841,7 +1120,10 @@
 		},
 		{
 			"schedule": [70, 73],
-			"name": "Collect: Yedi Fur II",
+			"name": {
+				"gl": "Collect: Yedi Fur II",
+				"jp": "Collect: Yede Fur II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 240,
@@ -850,7 +1132,10 @@
 		},
 		{
 			"schedule": [10, 85],
-			"name": "Collect: Marmoth Hooves I",
+			"name": {
+				"gl": "Collect: Marmoth Hooves I",
+				"jp": "Collect: Malmoth Hooves I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6000,
@@ -859,7 +1144,10 @@
 		},
 		{
 			"schedule": [46],
-			"name": "Collect: Marmoth Hooves II",
+			"name": {
+				"gl": "Collect: Marmoth Hooves II",
+				"jp": "Collect: Malmoth Hooves II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 240,
@@ -868,7 +1156,10 @@
 		},
 		{
 			"schedule": [16, 79],
-			"name": "Collect: Snow Banser Claws I",
+			"name": {
+				"gl": "Collect: Snow Banser Claws I",
+				"jp": "Collect: S. Banther Claws I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 3500,
@@ -877,7 +1168,10 @@
 		},
 		{
 			"schedule": [28],
-			"name": "Collect: Snow Banser Claws II",
+			"name": {
+				"gl": "Collect: Snow Banser Claws II",
+				"jp": "Collect: S. Banther Claws II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 700,
@@ -886,7 +1180,10 @@
 		},
 		{
 			"schedule": [52, 88],
-			"name": "Collect: Tranmizer Claws I",
+			"name": {
+				"gl": "Collect: Tranmizer Claws I",
+				"jp": "Collect: Tranmizer Claws I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2800,
@@ -895,7 +1192,10 @@
 		},
 		{
 			"schedule": [19],
-			"name": "Collect: Tranmizer Claws II",
+			"name": {
+				"gl": "Collect: Tranmizer Claws II",
+				"jp": "Collect: Tranmizer Claws II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 560,
@@ -904,7 +1204,10 @@
 		},
 		{
 			"schedule": [7, 40],
-			"name": "Collect: Baridran Scales I",
+			"name": {
+				"gl": "Collect: Baridran Scales I",
+				"jp": "Collect: Baridran Scales I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6000,
@@ -913,7 +1216,10 @@
 		},
 		{
 			"schedule": [67],
-			"name": "Collect: Baridran Scales II",
+			"name": {
+				"gl": "Collect: Baridran Scales II",
+				"jp": "Collect: Baridran Scales II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 240,
@@ -922,7 +1228,10 @@
 		},
 		{
 			"schedule": [76, 82],
-			"name": "Collect: Wyndila Scales I",
+			"name": {
+				"gl": "Collect: Wyndila Scales I",
+				"jp": "Collect: Windira Scales I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 3500,
@@ -931,7 +1240,10 @@
 		},
 		{
 			"schedule": [34, 49],
-			"name": "Collect: Wyndila Scales II",
+			"name": {
+				"gl": "Collect: Wyndila Scales II",
+				"jp": "Collect: Windira Scales II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 280,
@@ -940,7 +1252,10 @@
 		},
 		{
 			"schedule": [25, 64],
-			"name": "Collect: Sadeenian Blade Fragments I",
+			"name": {
+				"gl": "Collect: Sadeenian Blade Fragments I",
+				"jp": "Collect: Sadinian Sword Fragments I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -949,7 +1264,10 @@
 		},
 		{
 			"schedule": [55],
-			"name": "Collect: Sadeenian Blade Fragments II",
+			"name": {
+				"gl": "Collect: Sadeenian Blade Fragments II",
+				"jp": "Collect: Sadinian Sword Fragments II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 240,
@@ -958,7 +1276,10 @@
 		},
 		{
 			"schedule": [1, 58],
-			"name": "Collect: Catredransa Fangs I",
+			"name": {
+				"gl": "Collect: Catredransa Fangs I",
+				"jp": "Collect: Caterdra'nsa Fangs I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2800,
@@ -967,7 +1288,10 @@
 		},
 		{
 			"schedule": [37],
-			"name": "Collect: Catredransa Fangs II",
+			"name": {
+				"gl": "Collect: Catredransa Fangs II",
+				"jp": "Collect: Caterdra'nsa Fangs II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 560,
@@ -976,7 +1300,10 @@
 		},
 		{
 			"schedule": [20, 74],
-			"name": "Collect: Kodoniagari Bells",
+			"name": {
+				"gl": "Collect: Kodoniagari Bells",
+				"jp": "Collect: Godoni-agari Bells"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -985,7 +1312,10 @@
 		},
 		{
 			"schedule": [17, 31],
-			"name": "Collect: Ogakibar Crests",
+			"name": {
+				"gl": "Collect: Ogakibar Crests",
+				"jp": "Collect: Ogaki-baru Crests"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -994,7 +1324,10 @@
 		},
 		{
 			"schedule": [2, 26],
-			"name": "Collect: Neon Tubes",
+			"name": {
+				"gl": "Collect: Neon Tubes",
+				"jp": "Collect: Neon Tubes"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -1003,7 +1336,10 @@
 		},
 		{
 			"schedule": [13, 43],
-			"name": "Collect: Dullahan Biker Side Cars",
+			"name": {
+				"gl": "Collect: Dullahan Biker Side Cars",
+				"jp": "Collect: Road Roller Roller"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -1012,7 +1348,10 @@
 		},
 		{
 			"schedule": [27, 77],
-			"name": "Suppress: Udans I",
+			"name": {
+				"gl": "Suppress: Udans I",
+				"jp": "Defeat: Oodan I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 38400,
@@ -1021,7 +1360,10 @@
 		},
 		{
 			"schedule": [32],
-			"name": "Suppress: Udans II",
+			"name": {
+				"gl": "Suppress: Udans II",
+				"jp": "Defeat: Oodan II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 870,
@@ -1030,7 +1372,10 @@
 		},
 		{
 			"schedule": [47, 84],
-			"name": "Suppress: Fang Banshees I",
+			"name": {
+				"gl": "Suppress: Fang Banshees I",
+				"jp": "Defeat: Fang Banshee I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49000,
@@ -1039,7 +1384,10 @@
 		},
 		{
 			"schedule": [24, 62],
-			"name": "Suppress: Spardun As I",
+			"name": {
+				"gl": "Suppress: Spardun As I",
+				"jp": "Defeat: Spardan A I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 32400,
@@ -1048,7 +1396,10 @@
 		},
 		{
 			"schedule": [2],
-			"name": "Suppress: Spardun As II",
+			"name": {
+				"gl": "Suppress: Spardun As II",
+				"jp": "Defeat: Spardan A II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 870,
@@ -1057,7 +1408,10 @@
 		},
 		{
 			"schedule": [9, 50],
-			"name": "Suppress: Sparguns I",
+			"name": {
+				"gl": "Suppress: Sparguns I",
+				"jp": "Defeat: Spargun I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 38400,
@@ -1066,7 +1420,10 @@
 		},
 		{
 			"schedule": [18],
-			"name": "Suppress: Sparguns II",
+			"name": {
+				"gl": "Suppress: Sparguns II",
+				"jp": "Defeat: Spargun II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 870,
@@ -1075,7 +1432,10 @@
 		},
 		{
 			"schedule": [29, 78],
-			"name": "Suppress: King Yedis I",
+			"name": {
+				"gl": "Suppress: King Yedis I",
+				"jp": "Defeat: King Yede I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 18900,
@@ -1084,7 +1444,10 @@
 		},
 		{
 			"schedule": [20, 72],
-			"name": "Suppress: Guardines I",
+			"name": {
+				"gl": "Suppress: Guardines I",
+				"jp": "Defeat: Guardine I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 36000,
@@ -1093,7 +1456,10 @@
 		},
 		{
 			"schedule": [11],
-			"name": "Suppress: Guardines II",
+			"name": {
+				"gl": "Suppress: Guardines II",
+				"jp": "Defeat: Guardine II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1080,
@@ -1102,7 +1468,10 @@
 		},
 		{
 			"schedule": [48, 86],
-			"name": "Suppress: Sparziles I",
+			"name": {
+				"gl": "Suppress: Sparziles I",
+				"jp": "Defeat: Sparzyle I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 36000,
@@ -1111,7 +1480,10 @@
 		},
 		{
 			"schedule": [5],
-			"name": "Suppress: Sparziles II",
+			"name": {
+				"gl": "Suppress: Sparziles II",
+				"jp": "Defeat: Sparzyle II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1080,
@@ -1120,7 +1492,10 @@
 		},
 		{
 			"schedule": [33, 89],
-			"name": "Suppress: Sadeenians I",
+			"name": {
+				"gl": "Suppress: Sadeenians I",
+				"jp": "Defeat: Sadinian I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 31500,
@@ -1129,7 +1504,10 @@
 		},
 		{
 			"schedule": [38],
-			"name": "Suppress: Sadeenians II",
+			"name": {
+				"gl": "Suppress: Sadeenians II",
+				"jp": "Defeat: Sadinian II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1260,
@@ -1138,7 +1516,10 @@
 		},
 		{
 			"schedule": [6, 68],
-			"name": "Suppress: Pajigwans",
+			"name": {
+				"gl": "Suppress: Pajigwans",
+				"jp": "Defeat: Paji-gowan"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1147,7 +1528,10 @@
 		},
 		{
 			"schedule": [14, 54],
-			"name": "Suppress: Kodoniagaris",
+			"name": {
+				"gl": "Suppress: Kodoniagaris",
+				"jp": "Defeat: Godoni-agari"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1156,7 +1540,10 @@
 		},
 		{
 			"schedule": [53, 87],
-			"name": "Suppress: Itagizakris",
+			"name": {
+				"gl": "Suppress: Itagizakris",
+				"jp": "Defeat: Itagi-zakri"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1165,7 +1552,10 @@
 		},
 		{
 			"schedule": [15, 59],
-			"name": "Suppress: Orogrels",
+			"name": {
+				"gl": "Suppress: Orogrels",
+				"jp": "Defeat: Oro-ogar"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1174,7 +1564,10 @@
 		},
 		{
 			"schedule": [42, 69],
-			"name": "Suppress: Bomta Bakutas",
+			"name": {
+				"gl": "Suppress: Bomta Bakutas",
+				"jp": "Defeat: Bonta Bakuta"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1183,7 +1576,10 @@
 		},
 		{
 			"schedule": [45, 65],
-			"name": "Suppress: Bichda Rabittas",
+			"name": {
+				"gl": "Suppress: Bichda Rabittas",
+				"jp": "Defeat: Bikuda Rabitta"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1192,7 +1588,10 @@
 		},
 		{
 			"schedule": [36, 60],
-			"name": "Suppress: Mudr Toykattas",
+			"name": {
+				"gl": "Suppress: Mudr Toykattas",
+				"jp": "Defeat: Marda Tocatta"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1201,7 +1600,10 @@
 		},
 		{
 			"schedule": [41, 66],
-			"name": "Suppress: Orota Bikehtas",
+			"name": {
+				"gl": "Suppress: Orota Bikehtas",
+				"jp": "Defeat: Orota Biketta"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1210,7 +1612,10 @@
 		},
 		{
 			"schedule": [57, 92],
-			"name": "Suppress: Kodotta Idihtas",
+			"name": {
+				"gl": "Suppress: Kodotta Idihtas",
+				"jp": "Defeat: Codotta Idetta"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1219,7 +1624,10 @@
 		},
 		{
 			"schedule": [23, 74],
-			"name": "Suppress: Gwahl Jigmoldes",
+			"name": {
+				"gl": "Suppress: Gwahl Jigmoldes",
+				"jp": "Defeat: Guar Zigmorde"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1228,7 +1636,10 @@
 		},
 		{
 			"schedule": [3, 51],
-			"name": "Suppress: Boxer Phants",
+			"name": {
+				"gl": "Suppress: Boxer Phants",
+				"jp": "Defeat: Boxer Phamut"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1237,7 +1648,10 @@
 		},
 		{
 			"schedule": [12, 56],
-			"name": "Suppress: Vulture Phants",
+			"name": {
+				"gl": "Suppress: Vulture Phants",
+				"jp": "Defeat: Vulture Phamut"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1246,7 +1660,10 @@
 		},
 		{
 			"schedule": [8, 63],
-			"name": "Suppress: Skull Buffaloes",
+			"name": {
+				"gl": "Suppress: Skull Buffaloes",
+				"jp": "Defeat: Skull Buffalo"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1255,7 +1672,10 @@
 		},
 		{
 			"schedule": [21, 71],
-			"name": "Suppress: Juggler Clowns",
+			"name": {
+				"gl": "Suppress: Juggler Clowns",
+				"jp": "Defeat: Juggler Pierrot"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1264,7 +1684,10 @@
 		},
 		{
 			"schedule": [17, 75],
-			"name": "Suppress: Launcher Neons",
+			"name": {
+				"gl": "Suppress: Launcher Neons",
+				"jp": "Defeat: Launcher Neon"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1273,7 +1696,10 @@
 		},
 		{
 			"schedule": [30, 80],
-			"name": "Suppress: Dullahan Biker",
+			"name": {
+				"gl": "Suppress: Dullahan Biker",
+				"jp": "Defeat: Dullahan Rider"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1282,7 +1708,10 @@
 		},
 		{
 			"schedule": [39, 90],
-			"name": "Suppress: Circus Carriages",
+			"name": {
+				"gl": "Suppress: Circus Carriages",
+				"jp": "Defeat: Circus Carriage"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1291,7 +1720,10 @@
 		},
 		{
 			"schedule": [26, 81],
-			"name": "Suppress: UFOs",
+			"name": {
+				"gl": "Suppress: UFOs",
+				"jp": "Defeat: U.F.O"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1300,7 +1732,10 @@
 		},
 		{
 			"schedule": [35, 93],
-			"name": "Suppress: Devil Trucks I",
+			"name": {
+				"gl": "Suppress: Devil Trucks I",
+				"jp": "Defeat: Devil's Trailer I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1309,7 +1744,10 @@
 		},
 		{
 			"schedule": [44, 83],
-			"name": "Suppress: Vegas lllusia(s) I",
+			"name": {
+				"gl": "Suppress: Vegas lllusia(s) I",
+				"jp": "Defeat: Vegas Illusia I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1318,7 +1756,10 @@
 		},
 		{
 			"schedule": [13, 24, 51, 58, 85],
-			"name": "Circuit: Catredran Suppression I",
+			"name": {
+				"gl": "Circuit: Catredran Suppression I",
+				"jp": "Run: Subdue Caterdra'n I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 66500,
@@ -1327,7 +1768,10 @@
 		},
 		{
 			"schedule": [7, 34, 54, 61, 78],
-			"name": "Circuit: Distress Signal Investigation I",
+			"name": {
+				"gl": "Circuit: Distress Signal Investigation I",
+				"jp": "Run: Distress Signal Inv. I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49900,
@@ -1336,7 +1780,10 @@
 		},
 		{
 			"schedule": [6, 36, 43, 63, 70, 84],
-			"name": "Circuit: Suppression of Catredransas",
+			"name": {
+				"gl": "Circuit: Suppression of Catredransas",
+				"jp": "Run: Subdue Caterdra'nsa"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49900,
@@ -1345,7 +1792,10 @@
 		},
 		{
 			"schedule": [4, 28, 37, 52, 64, 88],
-			"name": "Circuit: Destroy the Giant Automata",
+			"name": {
+				"gl": "Circuit: Destroy the Giant Automata",
+				"jp": "Run: Transformer Takedown"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49900,
@@ -1354,7 +1804,10 @@
 		},
 		{
 			"schedule": [12, 39, 46, 49, 73, 87],
-			"name": "Circuit: Suppression of Orgbrans",
+			"name": {
+				"gl": "Circuit: Suppression of Orgbrans",
+				"jp": "Run: Subdue Org Blan"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49900,
@@ -1363,7 +1816,10 @@
 		},
 		{
 			"schedule": [15, 22, 40, 72, 79, 90],
-			"name": "Circuit: Dstry the Mvng Fortress Automat",
+			"name": {
+				"gl": "Circuit: Dstry the Mvng Fortress Automat",
+				"jp": "Run: Mobile Fortress Destruction"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49900,
@@ -1372,7 +1828,10 @@
 		},
 		{
 			"schedule": [16, 25, 48, 55, 75, 82],
-			"name": "Circuit: Suppression of Kodotta Idihtas",
+			"name": {
+				"gl": "Circuit: Suppression of Kodotta Idihtas",
+				"jp": "Run: Codotta Idetta Sub."
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 49900,
@@ -1381,7 +1840,10 @@
 		},
 		{
 			"schedule": [33, 93],
-			"name": "Circuit: Naverius Advanced Dash H",
+			"name": {
+				"gl": "Circuit: Naverius Advanced Dash H",
+				"jp": "Run: Naberius Advanced Marathon H"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 53000,
@@ -1390,7 +1852,10 @@
 		},
 		{
 			"schedule": [67, 81],
-			"name": "Circuit: Lillipan Dash H",
+			"name": {
+				"gl": "Circuit: Lillipan Dash H",
+				"jp": "Run: Lillipa Marathon H"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 58600,
@@ -1399,7 +1864,10 @@
 		},
 		{
 			"schedule": [57, 91],
-			"name": "Circuit: Amduskia Dash H",
+			"name": {
+				"gl": "Circuit: Amduskia Dash H",
+				"jp": "Run: Amduscia Marathon H"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 64300,
@@ -1408,7 +1876,10 @@
 		},
 		{
 			"schedule": [9, 69],
-			"name": "Circuit: Naverius Beginner Dash H",
+			"name": {
+				"gl": "Circuit: Naverius Beginner Dash H",
+				"jp": "Run: Naberius Beginner Marathon H"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1417,7 +1888,10 @@
 		},
 		{
 			"schedule": [21, 45],
-			"name": "Circuit: Dragon Altar Breakthrough H",
+			"name": {
+				"gl": "Circuit: Dragon Altar Breakthrough H",
+				"jp": "Run: Sanctum Infiltration H"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1426,7 +1900,10 @@
 		},
 		{
 			"schedule": [3, 10, 19, 30, 60, 76],
-			"name": "Circuit: Nightfall Province Exploration",
+			"name": {
+				"gl": "Circuit: Nightfall Province Exploration",
+				"jp": "Run: Kuron Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1435,7 +1912,10 @@
 		},
 		{
 			"schedule": [1, 18, 27, 31, 42, 66],
-			"name": "Circuit: Las Vegas Exploration",
+			"name": {
+				"gl": "Circuit: Las Vegas Exploration",
+				"jp": "Run: Las Vegas Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1444,7 +1924,10 @@
 		},
 		{
 			"schedule": [30, 42, 78, 93],
-			"name": "Collect: Agnis Tail Feathers I",
+			"name": {
+				"gl": "Collect: Agnis Tail Feathers I",
+				"jp": "Collect: Aginis Tail Feathers I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 18000,
@@ -1453,7 +1936,10 @@
 		},
 		{
 			"schedule": [9, 33, 63, 81],
-			"name": "Collect: Agnis Tail Feathers II",
+			"name": {
+				"gl": "Collect: Agnis Tail Feathers II",
+				"jp": "Collect: Aginis Tail Feathers II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 390,
@@ -1462,7 +1948,10 @@
 		},
 		{
 			"schedule": [3, 15, 27, 66],
-			"name": "Collect: Briarda Wings I",
+			"name": {
+				"gl": "Collect: Briarda Wings I",
+				"jp": "Collect: Breeahda Wings I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 11250,
@@ -1471,7 +1960,10 @@
 		},
 		{
 			"schedule": [18, 24, 39, 45],
-			"name": "Collect: Briarda Wings II",
+			"name": {
+				"gl": "Collect: Briarda Wings II",
+				"jp": "Collect: Breeahda Wings II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 420,
@@ -1480,7 +1972,10 @@
 		},
 		{
 			"schedule": [57, 72, 75, 87],
-			"name": "Collect: Deeg Leg Horns I",
+			"name": {
+				"gl": "Collect: Deeg Leg Horns I",
+				"jp": "Collect: Digg Leg Horns I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 22500,
@@ -1489,7 +1984,10 @@
 		},
 		{
 			"schedule": [12, 21, 48, 60],
-			"name": "Collect: Deeg Leg Horns II",
+			"name": {
+				"gl": "Collect: Deeg Leg Horns II",
+				"jp": "Collect: Digg Leg Horns II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 390,
@@ -1498,7 +1996,10 @@
 		},
 		{
 			"schedule": [6, 36, 69, 90],
-			"name": "Collect: Phangrulfer Claws I",
+			"name": {
+				"gl": "Collect: Phangrulfer Claws I",
+				"jp": "Collect: Fangulfur Claws I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 13500,
@@ -1507,7 +2008,10 @@
 		},
 		{
 			"schedule": [51, 54, 84],
-			"name": "Collect: Phangrulfer Claws II",
+			"name": {
+				"gl": "Collect: Phangrulfer Claws II",
+				"jp": "Collect: Fangulfur Claws II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 390,
@@ -1516,7 +2020,10 @@
 		},
 		{
 			"schedule": [2, 5, 35, 53],
-			"name": "Collect: Gillnach Chest Armor I",
+			"name": {
+				"gl": "Collect: Gillnach Chest Armor I",
+				"jp": "Collect: Gilnach Chest Armor I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 9000,
@@ -1525,7 +2032,10 @@
 		},
 		{
 			"schedule": [20, 41, 56, 74],
-			"name": "Collect: Gillnach Chest Armor II",
+			"name": {
+				"gl": "Collect: Gillnach Chest Armor II",
+				"jp": "Collect: Gilnach Chest Armor I"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 420,
@@ -1534,7 +2044,10 @@
 		},
 		{
 			"schedule": [38, 68, 71, 80],
-			"name": "Collect: Quartz Dragon Fangs I",
+			"name": {
+				"gl": "Collect: Quartz Dragon Fangs I",
+				"jp": "Collect: Quartz Dragon Fangs I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 6240,
@@ -1543,7 +2056,10 @@
 		},
 		{
 			"schedule": [23, 44, 59, 77],
-			"name": "Collect: Quartz Dragon Fangs II",
+			"name": {
+				"gl": "Collect: Quartz Dragon Fangs II",
+				"jp": "Collect: Quartz Dragon Fangs II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 728,
@@ -1552,7 +2068,10 @@
 		},
 		{
 			"schedule": [29, 50, 65, 89],
-			"name": "Collect: Cychronahda Horns I",
+			"name": {
+				"gl": "Collect: Cychronahda Horns I",
+				"jp": "Collect: Cyclonehda Horns I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 16380,
@@ -1561,7 +2080,10 @@
 		},
 		{
 			"schedule": [8, 17, 47, 83],
-			"name": "Collect: Cychronahda Horns II",
+			"name": {
+				"gl": "Collect: Cychronahda Horns II",
+				"jp": "Collect: Cyclonehda Horns II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1176,
@@ -1570,7 +2092,10 @@
 		},
 		{
 			"schedule": [11, 26, 32, 62],
-			"name": "Collect: Wolguarda Abdomen Fangs I",
+			"name": {
+				"gl": "Collect: Wolguarda Abdomen Fangs I",
+				"jp": "Collect: Wolgahda Belly Fangs I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 11440,
@@ -1579,7 +2104,10 @@
 		},
 		{
 			"schedule": [14, 86, 92],
-			"name": "Collect: Wolguarda Abdomen Fangs II",
+			"name": {
+				"gl": "Collect: Wolguarda Abdomen Fangs II",
+				"jp": "Collect: Wolgahda Belly Fangs II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1232,
@@ -1588,7 +2116,10 @@
 		},
 		{
 			"schedule": [93],
-			"name": "Suppress: Phongrulfs I",
+			"name": {
+				"gl": "Suppress: Phongrulfs I",
+				"jp": "Defeat: Fangulf I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 47300,
@@ -1597,7 +2128,10 @@
 		},
 		{
 			"schedule": [28],
-			"name": "Suppress: Phongrulfs II",
+			"name": {
+				"gl": "Suppress: Phongrulfs II",
+				"jp": "Defeat: Fangulf II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1150,
@@ -1606,7 +2140,10 @@
 		},
 		{
 			"schedule": [84],
-			"name": "Suppress: Gillnases I",
+			"name": {
+				"gl": "Suppress: Gillnases I",
+				"jp": "Defeat: Gilnas I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 31500,
@@ -1615,7 +2152,10 @@
 		},
 		{
 			"schedule": [40],
-			"name": "Suppress: Gillnases II",
+			"name": {
+				"gl": "Suppress: Gillnases II",
+				"jp": "Defeat: Gilnas II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1240,
@@ -1624,7 +2164,10 @@
 		},
 		{
 			"schedule": [66],
-			"name": "Suppress: De Marmoths I",
+			"name": {
+				"gl": "Suppress: De Marmoths I",
+				"jp": "Defeat: De Malmoth I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 15800,
@@ -1633,7 +2176,10 @@
 		},
 		{
 			"schedule": [51],
-			"name": "Suppress: Signo Beats I",
+			"name": {
+				"gl": "Suppress: Signo Beats I",
+				"jp": "Defeat: Signo Beat I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 42000,
@@ -1642,7 +2188,10 @@
 		},
 		{
 			"schedule": [58],
-			"name": "Suppress: Signo Beats II",
+			"name": {
+				"gl": "Suppress: Signo Beats II",
+				"jp": "Defeat: Signo Beat II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1150,
@@ -1651,7 +2200,10 @@
 		},
 		{
 			"schedule": [33],
-			"name": "Suppress: Dhargashes I",
+			"name": {
+				"gl": "Suppress: Dhargashes I",
+				"jp": "Defeat: Dahgash I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 43400,
@@ -1660,7 +2212,10 @@
 		},
 		{
 			"schedule": [70],
-			"name": "Suppress: Dhargashes II",
+			"name": {
+				"gl": "Suppress: Dhargashes II",
+				"jp": "Defeat: Dahgash II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1150,
@@ -1669,7 +2224,10 @@
 		},
 		{
 			"schedule": [10],
-			"name": "Suppress: Krabahdas I",
+			"name": {
+				"gl": "Suppress: Krabahdas I",
+				"jp": "Defeat: Krabahda I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 41800,
@@ -1678,7 +2236,10 @@
 		},
 		{
 			"schedule": [6],
-			"name": "Suppress: Krabahdas II",
+			"name": {
+				"gl": "Suppress: Krabahdas II",
+				"jp": "Defeat: Krabahda II"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 2780,
@@ -1687,7 +2248,10 @@
 		},
 		{
 			"schedule": [22],
-			"name": "Suppress: Cuchronahdas I",
+			"name": {
+				"gl": "Suppress: Cuchronahdas I",
+				"jp": "Defeat: Kuklonahda I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 62100,
@@ -1696,7 +2260,10 @@
 		},
 		{
 			"schedule": [15],
-			"name": "Suppress: Cuchronahdas II",
+			"name": {
+				"gl": "Suppress: Cuchronahdas II",
+				"jp": "Defeat: Kuklonahda II"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 2840,
@@ -1705,7 +2272,10 @@
 		},
 		{
 			"schedule": [46],
-			"name": "Suppress: Zeshraiders I",
+			"name": {
+				"gl": "Suppress: Zeshraiders I",
+				"jp": "Defeat: Zeshrayda I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 43700,
@@ -1714,7 +2284,10 @@
 		},
 		{
 			"schedule": [82],
-			"name": "Suppress: Dirandahls",
+			"name": {
+				"gl": "Suppress: Dirandahls",
+				"jp": "Defeat: Dirandal"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 2800,
@@ -1723,7 +2296,10 @@
 		},
 		{
 			"schedule": [18],
-			"name": "Suppress: Sol Dirandahls",
+			"name": {
+				"gl": "Suppress: Sol Dirandahls",
+				"jp": "Defeat: Sol Dirandal"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 2800,
@@ -1732,7 +2308,10 @@
 		},
 		{
 			"schedule": [4, 52, 81],
-			"name": "Suppress: Goron Zrans",
+			"name": {
+				"gl": "Suppress: Goron Zrans",
+				"jp": "Defeat: Goronzoran"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 82500,
@@ -1741,7 +2320,10 @@
 		},
 		{
 			"schedule": [36, 54, 72],
-			"name": "Suppress: Dragon X(s)",
+			"name": {
+				"gl": "Suppress: Dragon X(s)",
+				"jp": "Defeat: Dragon Ex"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 97500,
@@ -1750,7 +2332,10 @@
 		},
 		{
 			"schedule": [24],
-			"name": "Suppress: Aqualupuses",
+			"name": {
+				"gl": "Suppress: Aqualupuses",
+				"jp": "Defeat: Aqulupus"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1130,
@@ -1759,7 +2344,10 @@
 		},
 		{
 			"schedule": [30],
-			"name": "Suppress: Bloomegaras",
+			"name": {
+				"gl": "Suppress: Bloomegaras",
+				"jp": "Defeat: Blumegalla"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1090,
@@ -1768,7 +2356,10 @@
 		},
 		{
 			"schedule": [16, 64, 87],
-			"name": "Suppress: Orgbrans",
+			"name": {
+				"gl": "Suppress: Orgbrans",
+				"jp": "Defeat: Org Blan"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 82500,
@@ -1777,7 +2368,10 @@
 		},
 		{
 			"schedule": [1, 7, 13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85, 91],
-			"name": "Suppress: Bar Lodoses",
+			"name": {
+				"gl": "Suppress: Bar Lodoses",
+				"jp": "Defeat: Bal Rodos"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 250000,
@@ -1786,7 +2380,10 @@
 		},
 		{
 			"schedule": [42],
-			"name": "Suppress: Starkguns",
+			"name": {
+				"gl": "Suppress: Starkguns",
+				"jp": "Defeat: Stark Gun"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1150,
@@ -1795,7 +2392,10 @@
 		},
 		{
 			"schedule": [48],
-			"name": "Suppress: Vint Balgers",
+			"name": {
+				"gl": "Suppress: Vint Balgers",
+				"jp": "Defeat: Vinto Vargr"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1110,
@@ -1804,7 +2404,10 @@
 		},
 		{
 			"schedule": [57],
-			"name": "Suppress: Jagd Dingale",
+			"name": {
+				"gl": "Suppress: Jagd Dingale",
+				"jp": "Defeat: Jagd Dingell"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 1690,
@@ -1813,7 +2416,10 @@
 		},
 		{
 			"schedule": [21, 39, 76],
-			"name": "Suppress: Vardersomas",
+			"name": {
+				"gl": "Suppress: Vardersomas",
+				"jp": "Defeat: Vardha Soma"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 97500,
@@ -1822,7 +2428,10 @@
 		},
 		{
 			"schedule": [60],
-			"name": "Suppress: Bluturbons",
+			"name": {
+				"gl": "Suppress: Bluturbons",
+				"jp": "Defeat: Blutorbon"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 660,
@@ -1831,7 +2440,10 @@
 		},
 		{
 			"schedule": [69],
-			"name": "Suppress: Sevanians",
+			"name": {
+				"gl": "Suppress: Sevanians",
+				"jp": "Defeat: Sevanian"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1160,
@@ -1840,7 +2452,10 @@
 		},
 		{
 			"schedule": [78],
-			"name": "Suppress: Tarobekkos",
+			"name": {
+				"gl": "Suppress: Tarobekkos",
+				"jp": "Defeat: Talobecko"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1160,
@@ -1849,7 +2464,10 @@
 		},
 		{
 			"schedule": [90],
-			"name": "Suppress: Druahdas",
+			"name": {
+				"gl": "Suppress: Druahdas",
+				"jp": "Defeat: Doluahda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1160,
@@ -1858,7 +2476,10 @@
 		},
 		{
 			"schedule": [12, 45, 75],
-			"name": "Suppress: Dekor Maryudas",
+			"name": {
+				"gl": "Suppress: Dekor Maryudas",
+				"jp": "Defeat: Decol Malluda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 105000,
@@ -1867,7 +2488,10 @@
 		},
 		{
 			"schedule": [9, 27, 63],
-			"name": "Suppress: T15 Tanks",
+			"name": {
+				"gl": "Suppress: T15 Tanks",
+				"jp": "Defeat: Type-15 Tank"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1876,7 +2500,10 @@
 		},
 		{
 			"schedule": [3, 34, 88],
-			"name": "Suppress: Devil Trucks II",
+			"name": {
+				"gl": "Suppress: Devil Trucks II",
+				"jp": "Defeat: Devil's Trailer II"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -1885,7 +2512,10 @@
 		},
 		{
 			"schedule": [2, 8, 62, 76],
-			"name": "Circuit: ARKS Search Mission: Tundra I",
+			"name": {
+				"gl": "Circuit: ARKS Search Mission: Tundra I",
+				"jp": "Run: ARKS Search: Tundra I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 93600,
@@ -1894,7 +2524,10 @@
 		},
 		{
 			"schedule": [14, 19, 68, 82],
-			"name": "Circuit: Contaminator Destruction I",
+			"name": {
+				"gl": "Circuit: Contaminator Destruction I",
+				"jp": "Run: Polluter Destruction I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 117000,
@@ -1903,7 +2536,10 @@
 		},
 		{
 			"schedule": [4, 32, 43, 55],
-			"name": "Circuit: Conquer the Dragon Altar",
+			"name": {
+				"gl": "Circuit: Conquer the Dragon Altar",
+				"jp": "Run: Sanctum Suppression"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 112500,
@@ -1912,7 +2548,10 @@
 		},
 		{
 			"schedule": [17, 23, 74, 88],
-			"name": "Circuit: Coastal Ecological Survey",
+			"name": {
+				"gl": "Circuit: Coastal Ecological Survey",
+				"jp": "Run: Coastal Ecological Survey"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 113700,
@@ -1921,7 +2560,10 @@
 		},
 		{
 			"schedule": [31, 38, 67, 80],
-			"name": "Circuit: Automata Survey: Mines",
+			"name": {
+				"gl": "Circuit: Automata Survey: Mines",
+				"jp": "Run: Mech Power Survey: Quarry"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 113700,
@@ -1930,7 +2572,10 @@
 		},
 		{
 			"schedule": [29, 41, 50, 86],
-			"name": "Circuit: Seabed Ecological Survey",
+			"name": {
+				"gl": "Circuit: Seabed Ecological Survey",
+				"jp": "Run: Seabed Ecological Survey"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 113700,
@@ -1939,7 +2584,10 @@
 		},
 		{
 			"schedule": [25, 47, 61],
-			"name": "Circuit: Naverius Advanced Dash VH",
+			"name": {
+				"gl": "Circuit: Naverius Advanced Dash VH",
+				"jp": "Run: Naberius Advanced Marathon VH"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 120000,
@@ -1948,7 +2596,10 @@
 		},
 		{
 			"schedule": [1, 37, 73],
-			"name": "Circuit: Lillipan Dash VH",
+			"name": {
+				"gl": "Circuit: Lillipan Dash VH",
+				"jp": "Run: Lillipa Marathon VH"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 120000,
@@ -1957,7 +2608,10 @@
 		},
 		{
 			"schedule": [13, 49, 85],
-			"name": "Circuit: Amduskia Dash VH",
+			"name": {
+				"gl": "Circuit: Amduskia Dash VH",
+				"jp": "Run: Amduscia Marathon VH"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 120000,
@@ -1966,7 +2620,10 @@
 		},
 		{
 			"schedule": [5, 10, 56, 59],
-			"name": "Circuit: Volcanic Caves Exploration I",
+			"name": {
+				"gl": "Circuit: Volcanic Caves Exploration I",
+				"jp": "Run: V. Cave Exploration I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 93600,
@@ -1975,7 +2632,10 @@
 		},
 		{
 			"schedule": [11, 16, 65, 79],
-			"name": "Circuit: Floating Continent Exploration I",
+			"name": {
+				"gl": "Circuit: Floating Continent Exploration I",
+				"jp": "Run: Skyscape Exploration I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 105300,
@@ -1984,7 +2644,10 @@
 		},
 		{
 			"schedule": [20, 22, 71, 89],
-			"name": "Circuit: Ruins Exploration",
+			"name": {
+				"gl": "Circuit: Ruins Exploration",
+				"jp": "Run: Ruins Exploration I"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 158400,
@@ -1993,7 +2656,10 @@
 		},
 		{
 			"schedule": [7, 35, 46, 52],
-			"name": "Circuit: Dragon Altar Exploration",
+			"name": {
+				"gl": "Circuit: Dragon Altar Exploration",
+				"jp": "Run: Sanctum Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 112500,
@@ -2002,7 +2668,10 @@
 		},
 		{
 			"schedule": [26, 28, 70, 77, 91],
-			"name": "Circuit: Coast Exploration",
+			"name": {
+				"gl": "Circuit: Coast Exploration",
+				"jp": "Run: Coast Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 118800,
@@ -2011,7 +2680,10 @@
 		},
 		{
 			"schedule": [34, 53, 64, 83],
-			"name": "Circuit: Abandoned Mine Exploration",
+			"name": {
+				"gl": "Circuit: Abandoned Mine Exploration",
+				"jp": "Run: Quarry Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 118800,
@@ -2020,7 +2692,10 @@
 		},
 		{
 			"schedule": [40, 44, 58, 92],
-			"name": "Circuit: Seabed Exploration",
+			"name": {
+				"gl": "Circuit: Seabed Exploration",
+				"jp": "Run: Seabed Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 118800,
@@ -2029,7 +2704,10 @@
 		},
 		{
 			"schedule": [10, 58, 73],
-			"name": "Collect: Agnis Beautiful Crest",
+			"name": {
+				"gl": "Collect: Agnis Beautiful Crest",
+				"jp": "Collect: Beautiful Aginis Crests"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 490,
@@ -2038,7 +2716,10 @@
 		},
 		{
 			"schedule": [25, 82, 88],
-			"name": "Collect: Garongo Sharp Claws",
+			"name": {
+				"gl": "Collect: Garongo Sharp Claws",
+				"jp": "Collect: Sharp Garongo Claws"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 750,
@@ -2047,7 +2728,10 @@
 		},
 		{
 			"schedule": [7, 70, 91],
-			"name": "Collect: Deenian Hides",
+			"name": {
+				"gl": "Collect: Deenian Hides",
+				"jp": "Collect: Dinian Hide"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 425,
@@ -2056,7 +2740,10 @@
 		},
 		{
 			"schedule": [37, 43, 64],
-			"name": "Collect: Deeg Eyelids",
+			"name": {
+				"gl": "Collect: Deeg Eyelids",
+				"jp": "Collect: Digg Eyelids"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 490,
@@ -2065,7 +2752,10 @@
 		},
 		{
 			"schedule": [4, 19, 46],
-			"name": "Collect: Signo Chips",
+			"name": {
+				"gl": "Collect: Signo Chips",
+				"jp": "Collect: Signo Chips"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 575,
@@ -2074,7 +2764,10 @@
 		},
 		{
 			"schedule": [22, 31, 76, 85],
-			"name": "Collect: Spar Chips",
+			"name": {
+				"gl": "Collect: Spar Chips",
+				"jp": "Collect: Spar Chips"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 550,
@@ -2083,7 +2776,10 @@
 		},
 		{
 			"schedule": [16, 28, 40],
-			"name": "Collect: Phangrulfer Horns",
+			"name": {
+				"gl": "Collect: Phangrulfer Horns",
+				"jp": "Collect: Fangulfur Horns"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 540,
@@ -2092,7 +2788,10 @@
 		},
 		{
 			"schedule": [52, 67, 79],
-			"name": "Collect: Yedi Fists",
+			"name": {
+				"gl": "Collect: Yedi Fists",
+				"jp": "Collect: Yede Fists"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 490,
@@ -2101,7 +2800,10 @@
 		},
 		{
 			"schedule": [13, 34, 61],
-			"name": "Collect: Gillnach Arms",
+			"name": {
+				"gl": "Collect: Gillnach Arms",
+				"jp": "Collect: Gilnach Arms"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 560,
@@ -2110,7 +2812,10 @@
 		},
 		{
 			"schedule": [1, 49, 55],
-			"name": "Collect: Fodransa Horns",
+			"name": {
+				"gl": "Collect: Fodransa Horns",
+				"jp": "Collect: Fordoransa Horns"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 675,
@@ -2119,7 +2824,10 @@
 		},
 		{
 			"schedule": [9, 78, 93],
-			"name": "Collect: Wolguarda Knee Carapaces",
+			"name": {
+				"gl": "Collect: Wolguarda Knee Carapaces",
+				"jp": "Collect: Wolgahda Kneecaps"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1478,
@@ -2128,7 +2836,10 @@
 		},
 		{
 			"schedule": [15, 18, 72],
-			"name": "Collect: Deegahla Wings",
+			"name": {
+				"gl": "Collect: Deegahla Wings",
+				"jp": "Collect: Deegalla Wings"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 750,
@@ -2137,7 +2848,10 @@
 		},
 		{
 			"schedule": [45, 54, 84],
-			"name": "Collect: Bloomegara Flowers",
+			"name": {
+				"gl": "Collect: Bloomegara Flowers",
+				"jp": "Collect: Blumegalla Flowers"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1008,
@@ -2146,7 +2860,10 @@
 		},
 		{
 			"schedule": [3, 27, 60, 69],
-			"name": "Collect: Dingale Arms",
+			"name": {
+				"gl": "Collect: Dingale Arms",
+				"jp": "Collect: Dingell Arms"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 950,
@@ -2155,7 +2872,10 @@
 		},
 		{
 			"schedule": [6, 42, 66, 90],
-			"name": "Collect: Bluturbon Blue Shells",
+			"name": {
+				"gl": "Collect: Bluturbon Blue Shells",
+				"jp": "Collect: Blutorbon Shells"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 650,
@@ -2164,7 +2884,10 @@
 		},
 		{
 			"schedule": [24, 33, 36, 39],
-			"name": "Collect: Falcabone Shell Fragments",
+			"name": {
+				"gl": "Collect: Falcabone Shell Fragments",
+				"jp": "Collect: Falcabone Shell Fragments"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 980,
@@ -2173,7 +2896,10 @@
 		},
 		{
 			"schedule": [12, 21, 57, 75],
-			"name": "Collect: Tag Aqualupus Claws",
+			"name": {
+				"gl": "Collect: Tag Aqualupus Claws",
+				"jp": "Collect: Tag Aqulupus Claws"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 975,
@@ -2182,7 +2908,10 @@
 		},
 		{
 			"schedule": [51, 63, 81],
-			"name": "Collect: Tarobekko Beaks",
+			"name": {
+				"gl": "Collect: Tarobekko Beaks",
+				"jp": "Collect: Talobecko Beaks"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 975,
@@ -2191,7 +2920,10 @@
 		},
 		{
 			"schedule": [30, 48, 87],
-			"name": "Collect: Vid Giros Tail Fins",
+			"name": {
+				"gl": "Collect: Vid Giros Tail Fins",
+				"jp": "Collect: Vid Gilos Tail Fins"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 980,
@@ -2200,7 +2932,10 @@
 		},
 		{
 			"schedule": [14, 58],
-			"name": "Suppression: Fang Banshee II",
+			"name": {
+				"gl": "Suppression: Fang Banshee II",
+				"jp": "Defeat: Fang Banshee"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 97500,
@@ -2209,7 +2944,10 @@
 		},
 		{
 			"schedule": [62, 88],
-			"name": "Suppress: Vol Dragon(s)",
+			"name": {
+				"gl": "Suppress: Vol Dragon(s)",
+				"jp": "Defeat: Vol Dragon"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2218,7 +2956,10 @@
 		},
 		{
 			"schedule": [13, 40],
-			"name": "Suppress: Gwanadas",
+			"name": {
+				"gl": "Suppress: Gwanadas",
+				"jp": "Defeat: Gwanahda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2227,7 +2968,10 @@
 		},
 		{
 			"schedule": [17, 71],
-			"name": "Suppress: Snow Banser(s)",
+			"name": {
+				"gl": "Suppress: Snow Banser(s)",
+				"jp": "Defeat: Snow Banther"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2236,7 +2980,10 @@
 		},
 		{
 			"schedule": [22, 76],
-			"name": "Suppress: Big Varder(s)",
+			"name": {
+				"gl": "Suppress: Big Varder(s)",
+				"jp": "Defeat: Big Vardha"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2245,7 +2992,10 @@
 		},
 		{
 			"schedule": [26, 80],
-			"name": "Suppress: Quartz Dragon(s)",
+			"name": {
+				"gl": "Suppress: Quartz Dragon(s)",
+				"jp": "Defeat: Quartz Dragon"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2254,7 +3004,10 @@
 		},
 		{
 			"schedule": [31, 85],
-			"name": "Suppress: Zeshraiders",
+			"name": {
+				"gl": "Suppress: Zeshraiders",
+				"jp": "Defeat: Zeshrayda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2263,7 +3016,10 @@
 		},
 		{
 			"schedule": [35, 89],
-			"name": "Suppress: Dragon X(s)",
+			"name": {
+				"gl": "Suppress: Dragon X(s)",
+				"jp": "Defeat: Dragon Ex"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2272,7 +3028,10 @@
 		},
 		{
 			"schedule": [1, 37],
-			"name": "Suppress: Bar Lodoses",
+			"name": {
+				"gl": "Suppress: Bar Lodoses",
+				"jp": "Defeat: Bal Rodos"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2281,7 +3040,10 @@
 		},
 		{
 			"schedule": [5, 44],
-			"name": "Suppress: Bryu Ringahdas",
+			"name": {
+				"gl": "Suppress: Bryu Ringahdas",
+				"jp": "Defeat: Blu Ringahda"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2290,7 +3052,10 @@
 		},
 		{
 			"schedule": [2, 38, 74],
-			"name": "Suppress: Tag Sevanians",
+			"name": {
+				"gl": "Suppress: Tag Sevanians",
+				"jp": "Defeat: Tag Sevanian"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2299,7 +3064,10 @@
 		},
 		{
 			"schedule": [11, 47, 83],
-			"name": "Suppress: Guru Soldas",
+			"name": {
+				"gl": "Suppress: Guru Soldas",
+				"jp": "Defeat: Gul Solda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2308,7 +3076,10 @@
 		},
 		{
 			"schedule": [20, 56, 92],
-			"name": "Suppress: Dwe Soldas",
+			"name": {
+				"gl": "Suppress: Dwe Soldas",
+				"jp": "Defeat: Deue Solda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2317,7 +3088,10 @@
 		},
 		{
 			"schedule": [7, 29, 65],
-			"name": "Suppress: Solda Capitas",
+			"name": {
+				"gl": "Suppress: Solda Capitas",
+				"jp": "Defeat: Solda Kapita"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2326,7 +3100,10 @@
 		},
 		{
 			"schedule": [32, 49],
-			"name": "Suppress: Biol Medunas",
+			"name": {
+				"gl": "Suppress: Biol Medunas",
+				"jp": "Defeat: Biol Meduna"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130000,
@@ -2335,7 +3112,10 @@
 		},
 		{
 			"schedule": [53, 82],
-			"name": "Suppress: Train Gidran(s)",
+			"name": {
+				"gl": "Suppress: Train Gidran(s)",
+				"jp": "Defeat: Train Ghidoran"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -2344,7 +3124,10 @@
 		},
 		{
 			"schedule": [4, 67],
-			"name": "Suppress: Vegas lllusia(s) II",
+			"name": {
+				"gl": "Suppress: Vegas lllusia(s) II",
+				"jp": "Defeat: Vegas Illusia II"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 60000,
@@ -2353,7 +3136,10 @@
 		},
 		{
 			"schedule": [8, 28, 52, 70],
-			"name": "Suppress: Dagans",
+			"name": {
+				"gl": "Suppress: Dagans",
+				"jp": "Defeat: Dagan"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2362,7 +3148,10 @@
 		},
 		{
 			"schedule": [10, 34, 55, 73],
-			"name": "Suppress: Gawondas",
+			"name": {
+				"gl": "Suppress: Gawondas",
+				"jp": "Defeat: Ga Wonda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2371,7 +3160,10 @@
 		},
 		{
 			"schedule": [19, 43, 61, 79],
-			"name": "Suppress: Dicahdrs",
+			"name": {
+				"gl": "Suppress: Dicahdrs",
+				"jp": "Defeat: Dicahda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2380,7 +3172,10 @@
 		},
 		{
 			"schedule": [16, 41, 59, 77],
-			"name": "Suppress: Guwondas",
+			"name": {
+				"gl": "Suppress: Guwondas",
+				"jp": "Defeat: Gu Wonda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2389,7 +3184,10 @@
 		},
 		{
 			"schedule": [23, 46, 64, 86],
-			"name": "Suppress: Predicahdrs",
+			"name": {
+				"gl": "Suppress: Predicahdrs",
+				"jp": "Defeat: Predicahda"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2398,7 +3196,10 @@
 		},
 		{
 			"schedule": [25, 50, 68, 91],
-			"name": "Suppress: Luda Sorcerers",
+			"name": {
+				"gl": "Suppress: Luda Sorcerers",
+				"jp": "Defeat: Luda Sorcerer"
+			},
 			"order": {
 				"amount": 99,
 				"meseta": 1270,
@@ -2407,7 +3208,10 @@
 		},
 		{
 			"schedule": [6, 33, 66, 72, 75],
-			"name": "Circuit: Forest Exploration",
+			"name": {
+				"gl": "Circuit: Forest Exploration",
+				"jp": "Run: Forest Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 114600,
@@ -2416,7 +3220,10 @@
 		},
 		{
 			"schedule": [24, 27, 30, 36, 84],
-			"name": "Circuit: Volcanic Caves Exploration",
+			"name": {
+				"gl": "Circuit: Volcanic Caves Exploration",
+				"jp": "Run: Volcanic Caverns Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 121800,
@@ -2425,7 +3232,10 @@
 		},
 		{
 			"schedule": [42, 45, 48, 63, 78],
-			"name": "Circuit: Desert Exploration",
+			"name": {
+				"gl": "Circuit: Desert Exploration",
+				"jp": "Run: Desert Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 114600,
@@ -2434,7 +3244,10 @@
 		},
 		{
 			"schedule": [9, 15, 39, 51, 57, 87],
-			"name": "Circuit: Tundra Exploration",
+			"name": {
+				"gl": "Circuit: Tundra Exploration",
+				"jp": "Run: Tundra Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 121800,
@@ -2443,7 +3256,10 @@
 		},
 		{
 			"schedule": [3, 21, 60, 81, 90],
-			"name": "Circuit: Underground Shafts Exploration",
+			"name": {
+				"gl": "Circuit: Underground Shafts Exploration",
+				"jp": "Run: Sub. Tunnels Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 121800,
@@ -2452,7 +3268,10 @@
 		},
 		{
 			"schedule": [12, 18, 54, 69, 93],
-			"name": "Circuit: Floating Continent Exploration",
+			"name": {
+				"gl": "Circuit: Floating Continent Exploration",
+				"jp": "Run: Skyscape Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 126600,
@@ -2461,7 +3280,10 @@
 		},
 		{
 			"schedule": [14, 29, 53, 71, 92],
-			"name": "Circuit: Ruins Exploration",
+			"name": {
+				"gl": "Circuit: Ruins Exploration",
+				"jp": "Run: Ruins Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 121800,
@@ -2470,7 +3292,10 @@
 		},
 		{
 			"schedule": [32, 47, 56, 59, 80],
-			"name": "Circuit: Dragon Altar Exploration",
+			"name": {
+				"gl": "Circuit: Dragon Altar Exploration",
+				"jp": "Run: Sanctum Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 121800,
@@ -2479,7 +3304,10 @@
 		},
 		{
 			"schedule": [8, 11, 17, 26, 44, 89],
-			"name": "Circuit: Coast Exploration",
+			"name": {
+				"gl": "Circuit: Coast Exploration",
+				"jp": "Run: Coast Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130700,
@@ -2488,7 +3316,10 @@
 		},
 		{
 			"schedule": [20, 35, 68, 74, 77],
-			"name": "Circuit: Abandoned Mine Exploration",
+			"name": {
+				"gl": "Circuit: Abandoned Mine Exploration",
+				"jp": "Run: Quarry Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130700,
@@ -2497,7 +3328,10 @@
 		},
 		{
 			"schedule": [23, 38, 62, 83, 86],
-			"name": "Circuit: Suppression of Dekor Maryudas",
+			"name": {
+				"gl": "Circuit: Suppression of Dekor Maryudas",
+				"jp": "Run: Decol Malluda Subjugation"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130700,
@@ -2506,7 +3340,10 @@
 		},
 		{
 			"schedule": [2, 5, 41, 50, 65],
-			"name": "Circuit: Seabed Exploration",
+			"name": {
+				"gl": "Circuit: Seabed Exploration",
+				"jp": "Run: Seabed Exploration"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 130700,
@@ -2515,7 +3352,10 @@
 		},
 		{
 			"schedule": [2, 28, 54, 80],
-			"name": "Harvesting: Forest Tomatoes",
+			"name": {
+				"gl": "Harvesting: Forest Tomatoes",
+				"jp": "Harvest: Forest Tomato"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2524,7 +3364,10 @@
 		},
 		{
 			"schedule": [12, 37, 62, 87],
-			"name": "Harvesting: Tundra Spring Onions",
+			"name": {
+				"gl": "Harvesting: Tundra Spring Onions",
+				"jp": "Harvest: Tundra Green Onions"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2533,7 +3376,10 @@
 		},
 		{
 			"schedule": [5, 31, 57, 83],
-			"name": "Harvesting: Ruins Grapes",
+			"name": {
+				"gl": "Harvesting: Ruins Grapes",
+				"jp": "Harvest: Ruins Grapes"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2542,7 +3388,10 @@
 		},
 		{
 			"schedule": [15, 40, 65, 90],
-			"name": "Harvesting: Volcanic Caves Pumpkins",
+			"name": {
+				"gl": "Harvesting: Volcanic Caves Pumpkins",
+				"jp": "Harvest: Cave Pumpkins"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2551,7 +3400,10 @@
 		},
 		{
 			"schedule": [20, 46, 72],
-			"name": "Harvesting: Floating Continent Beans",
+			"name": {
+				"gl": "Harvesting: Floating Continent Beans",
+				"jp": "Harvest: Skyscape Beans"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2560,7 +3412,10 @@
 		},
 		{
 			"schedule": [8, 33, 58, 83],
-			"name": "Harvesting: Dragon Altar Radishes",
+			"name": {
+				"gl": "Harvesting: Dragon Altar Radishes",
+				"jp": "Harvest: Sanctum Radish"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2569,7 +3424,10 @@
 		},
 		{
 			"schedule": [24, 50, 76],
-			"name": "Harvesting: Desert Sanshos",
+			"name": {
+				"gl": "Harvesting: Desert Sanshos",
+				"jp": "Harvest: Desert Pepper"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2578,7 +3436,10 @@
 		},
 		{
 			"schedule": [23, 48, 73],
-			"name": "Harvesting: Underground Mushrooms",
+			"name": {
+				"gl": "Harvesting: Underground Mushrooms",
+				"jp": "Harvest: Tunnels Mushrooms"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2587,7 +3448,10 @@
 		},
 		{
 			"schedule": [11, 37, 63, 89],
-			"name": "Harvesting: Abandoned Mine Potatoes",
+			"name": {
+				"gl": "Harvesting: Abandoned Mine Potatoes",
+				"jp": "Harvest: Quarry Potato"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2596,7 +3460,10 @@
 		},
 		{
 			"schedule": [18, 43, 68, 93],
-			"name": "Harvesting: Coast Olives",
+			"name": {
+				"gl": "Harvesting: Coast Olives",
+				"jp": "Harvest: Coast Olives"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2605,7 +3472,10 @@
 		},
 		{
 			"schedule": [21, 46, 71],
-			"name": "Harvesting: Seabed Shallots",
+			"name": {
+				"gl": "Harvesting: Seabed Shallots",
+				"jp": "Harvest: Seabed Shallots"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2614,7 +3484,10 @@
 		},
 		{
 			"schedule": [14, 40, 66, 92],
-			"name": "Harvesting: Floating Facility Mints",
+			"name": {
+				"gl": "Harvesting: Floating Facility Mints",
+				"jp": "Harvest: Facility Mint"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2623,7 +3496,10 @@
 		},
 		{
 			"schedule": [5, 30, 55, 80],
-			"name": "Harvesting: Daybreak Prov. String Sprout",
+			"name": {
+				"gl": "Harvesting: Daybreak Prov. String Sprout",
+				"jp": "Harvest: Shironian Sprouts"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2632,7 +3508,10 @@
 		},
 		{
 			"schedule": [8, 34, 60, 86],
-			"name": "Harvesting: Nightfall Prov. Lotus Roots",
+			"name": {
+				"gl": "Harvesting: Nightfall Prov. Lotus Roots",
+				"jp": "Harvest: Kuron Lotus"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2641,7 +3520,10 @@
 		},
 		{
 			"schedule": [17, 43, 69],
-			"name": "Harvesting: Tokyo Soybeans",
+			"name": {
+				"gl": "Harvesting: Tokyo Soybeans",
+				"jp": "Harvest: Tokyo Soybeans"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2650,7 +3532,10 @@
 		},
 		{
 			"schedule": [2, 27, 52, 77],
-			"name": "Harvesting: Las Vegas Lettuces",
+			"name": {
+				"gl": "Harvesting: Las Vegas Lettuces",
+				"jp": "Harvest: Vegas Lettuce"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2659,7 +3544,10 @@
 		},
 		{
 			"schedule": [11, 36, 61, 86],
-			"name": "Polefishing: Forest Sweetfish",
+			"name": {
+				"gl": "Polefishing: Forest Sweetfish",
+				"jp": "Catch: Forest Sweetfish"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2668,7 +3556,10 @@
 		},
 		{
 			"schedule": [21, 47, 73],
-			"name": "Polefishing: Tundra Herrings",
+			"name": {
+				"gl": "Polefishing: Tundra Herrings",
+				"jp": "Catch: Tundra Herring"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2677,7 +3568,10 @@
 		},
 		{
 			"schedule": [14, 39, 64, 89],
-			"name": "Polefishing: Ruins Shrimp",
+			"name": {
+				"gl": "Polefishing: Ruins Shrimp",
+				"jp": "Catch: Ruins Shrimp"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2686,7 +3580,10 @@
 		},
 		{
 			"schedule": [6, 32, 58, 84],
-			"name": "Polefishing: Volcanic Caves Mussels",
+			"name": {
+				"gl": "Polefishing: Volcanic Caves Mussels",
+				"jp": "Catch: Caves Mussels"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2695,7 +3592,10 @@
 		},
 		{
 			"schedule": [17, 42, 67, 92],
-			"name": "Polefishing: Floating Continent Kelp",
+			"name": {
+				"gl": "Polefishing: Floating Continent Kelp",
+				"jp": "Catch: Skyscape Kelp"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2704,7 +3604,10 @@
 		},
 		{
 			"schedule": [12, 38, 64, 90],
-			"name": "Polefishing: Dragon Altar Fiddler Crabs",
+			"name": {
+				"gl": "Polefishing: Dragon Altar Fiddler Crabs",
+				"jp": "Catch: Sanctum Fiddler Crab"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2713,7 +3616,10 @@
 		},
 		{
 			"schedule": [4, 29, 54, 79],
-			"name": "Polefishing: Desert Flounders",
+			"name": {
+				"gl": "Polefishing: Desert Flounders",
+				"jp": "Catch: Desert Flounder"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2722,7 +3628,10 @@
 		},
 		{
 			"schedule": [9, 35, 61, 87],
-			"name": "Polefishing: Underground Shrimp",
+			"name": {
+				"gl": "Polefishing: Underground Shrimp",
+				"jp": "Catch: Tunnels Mantis Shrimp"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2731,7 +3640,10 @@
 		},
 		{
 			"schedule": [1, 26, 51, 76],
-			"name": "Polefishing: Abandoned Mine Beltfish",
+			"name": {
+				"gl": "Polefishing: Abandoned Mine Beltfish",
+				"jp": "Catch: Quarry Cutlass"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2740,7 +3652,10 @@
 		},
 		{
 			"schedule": [3, 29, 55, 81],
-			"name": "Polefishing: Coast Littleneck Clams",
+			"name": {
+				"gl": "Polefishing: Coast Littleneck Clams",
+				"jp": "Catch: Coast Clam"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2749,7 +3664,10 @@
 		},
 		{
 			"schedule": [23, 49, 75],
-			"name": "Polefishing: Seabed Iwagaki Oysters",
+			"name": {
+				"gl": "Polefishing: Seabed Iwagaki Oysters",
+				"jp": "Catch: Seabed Oyster"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2758,7 +3676,10 @@
 		},
 		{
 			"schedule": [24, 49, 74],
-			"name": "Polefishing: Floating Facility Squids",
+			"name": {
+				"gl": "Polefishing: Floating Facility Squids",
+				"jp": "Catch: Facility Squid"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2767,7 +3688,10 @@
 		},
 		{
 			"schedule": [15, 41, 67, 93],
-			"name": "Polefishing: Daybreak Province Carp",
+			"name": {
+				"gl": "Polefishing: Daybreak Province Carp",
+				"jp": "Catch: Shironian Carp"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2776,7 +3700,10 @@
 		},
 		{
 			"schedule": [20, 45, 70],
-			"name": "Polefishing: Nightfall Firefly Squids",
+			"name": {
+				"gl": "Polefishing: Nightfall Firefly Squids",
+				"jp": "Catch: Kuron Firefly Squid"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2785,7 +3712,10 @@
 		},
 		{
 			"schedule": [7, 32, 57, 82],
-			"name": "Polefishing: Empty Cans",
+			"name": {
+				"gl": "Polefishing: Empty Cans",
+				"jp": "Catch: Empty Can"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2794,7 +3724,10 @@
 		},
 		{
 			"schedule": [18, 44, 70],
-			"name": "Polefishing: Las Vegas Lobsters",
+			"name": {
+				"gl": "Polefishing: Las Vegas Lobsters",
+				"jp": "Catch: Vegas Lobster"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2803,7 +3736,10 @@
 		},
 		{
 			"schedule": [1, 27, 53, 79],
-			"name": "Harvesting: Red Meat",
+			"name": {
+				"gl": "Harvesting: Red Meat",
+				"jp": "Harvest: Red Meat"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2812,7 +3748,10 @@
 		},
 		{
 			"schedule": [9, 34, 59, 84],
-			"name": "Harvesting: Marbled Meat",
+			"name": {
+				"gl": "Harvesting: Marbled Meat",
+				"jp": "Harvest: Marbled Meat"
+			},
 			"order": {
 				"amount": 999,
 				"meseta": 350,
@@ -2821,7 +3760,10 @@
 		},
 		{
 			"schedule": [16, 41, 66, 91],
-			"name": "Polefishing: Naverturtles",
+			"name": {
+				"gl": "Polefishing: Naverturtles",
+				"jp": "Catch: Naberius Turtle"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2830,7 +3772,10 @@
 		},
 		{
 			"schedule": [4, 30, 56, 82],
-			"name": "Polefishing: Tundra Cliones",
+			"name": {
+				"gl": "Polefishing: Tundra Cliones",
+				"jp": "Catch: Tundra Clione"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2839,7 +3784,10 @@
 		},
 		{
 			"schedule": [3, 28, 53, 78],
-			"name": "Polefishing: Amduskia Coral",
+			"name": {
+				"gl": "Polefishing: Amduskia Coral",
+				"jp": "Catch: Amduscia Coral"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2848,7 +3796,10 @@
 		},
 		{
 			"schedule": [22, 48, 74],
-			"name": "Polefishing: Volcanic Caves Arowanas",
+			"name": {
+				"gl": "Polefishing: Volcanic Caves Arowanas",
+				"jp": "Catch: Cave Arowana"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2857,7 +3808,10 @@
 		},
 		{
 			"schedule": [26, 52, 78],
-			"name": "Polefishing: Floating Continent Tusks",
+			"name": {
+				"gl": "Polefishing: Floating Continent Tusks",
+				"jp": "Catch: Skyscape Oarfish"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2866,7 +3820,10 @@
 		},
 		{
 			"schedule": [19, 44, 69],
-			"name": "Polefishing: Dragon Altar Nautiluses",
+			"name": {
+				"gl": "Polefishing: Dragon Altar Nautiluses",
+				"jp": "Catch: Sanctum Nautilus"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2875,7 +3832,10 @@
 		},
 		{
 			"schedule": [10, 35, 60, 85],
-			"name": "Polefishing: Lillipan Shells",
+			"name": {
+				"gl": "Polefishing: Lillipan Shells",
+				"jp": "Catch: Lillipa Shell"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2884,7 +3844,10 @@
 		},
 		{
 			"schedule": [16, 42, 68],
-			"name": "Polefishing: Underground Eagle Rays",
+			"name": {
+				"gl": "Polefishing: Underground Eagle Rays",
+				"jp": "Catch: Tunnels Eagle Ray"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2893,7 +3856,10 @@
 		},
 		{
 			"schedule": [7, 33, 59, 85],
-			"name": "Polefishing: Wopal Sharks",
+			"name": {
+				"gl": "Polefishing: Wopal Sharks",
+				"jp": "Catch: Wopal Shark"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2902,7 +3868,10 @@
 		},
 		{
 			"schedule": [10, 36, 62, 88],
-			"name": "Polefishing: Petit Lodoses",
+			"name": {
+				"gl": "Polefishing: Petit Lodoses",
+				"jp": "Catch: Petit Rodos"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2911,7 +3880,10 @@
 		},
 		{
 			"schedule": [6, 31, 56, 81],
-			"name": "Polefishing: Little Medunas",
+			"name": {
+				"gl": "Polefishing: Little Medunas",
+				"jp": "Catch: Little Meduna"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2920,7 +3892,10 @@
 		},
 		{
 			"schedule": [13, 38, 63, 88],
-			"name": "Polefishing: Surface Ship Models",
+			"name": {
+				"gl": "Polefishing: Surface Ship Models",
+				"jp": "Catch: Model Ship"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2929,7 +3904,10 @@
 		},
 		{
 			"schedule": [13, 39, 65, 91],
-			"name": "Polefishing: Little Zakris",
+			"name": {
+				"gl": "Polefishing: Little Zakris",
+				"jp": "Catch: Little Zakri"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2938,7 +3916,10 @@
 		},
 		{
 			"schedule": [25, 50, 75],
-			"name": "Polefishing: Daybreak Salamanders",
+			"name": {
+				"gl": "Polefishing: Daybreak Salamanders",
+				"jp": "Catch: Shironian Salamander"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2947,7 +3928,10 @@
 		},
 		{
 			"schedule": [25, 51, 77],
-			"name": "Polefishing: Nightfall Sheepsheads",
+			"name": {
+				"gl": "Polefishing: Nightfall Sheepsheads",
+				"jp": "Catch: Kuron Wrasse"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2956,7 +3940,10 @@
 		},
 		{
 			"schedule": [19, 45, 71],
-			"name": "Polefishing: Sand Shellfish",
+			"name": {
+				"gl": "Polefishing: Sand Shellfish",
+				"jp": "Catch: Earth Shell"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
@@ -2965,7 +3952,10 @@
 		},
 		{
 			"schedule": [22, 47, 72],
-			"name": "Polefishing: Las Vegas Jaws",
+			"name": {
+				"gl": "Polefishing: Las Vegas Jaws",
+				"jp": "Catch: Vegas Jaws"
+			},
 			"order": {
 				"amount": 1,
 				"meseta": 100000,
