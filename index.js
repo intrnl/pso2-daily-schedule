@@ -1,11 +1,12 @@
 let { Temporal } = require('proposal-temporal');
 
 
-function getDailySchedule (type, date = Temporal.now.zonedDateTimeISO()) {
+function getDailySchedule (type, date = Temporal.now.zonedDateTimeISO(), region = 'GL') {
 	let data = require(`./data/${type}.json`);
 
-	let start = Temporal.ZonedDateTime.from(data.start);
-	let now = date.withTimeZone('America/Los_Angeles');
+	let tz = region == 'JP' ? 'Asia/Tokyo' : region == 'GL' ? 'America/Los_Angeles' : null;
+	let start = Temporal.PlainDate.from(data.start).toZonedDateTime(tz)
+	let now = date.withTimeZone(tz);
 
 	let cycle = data.cycle;
 
@@ -15,4 +16,4 @@ function getDailySchedule (type, date = Temporal.now.zonedDateTimeISO()) {
 	return data.items.filter((item) => item.schedule.includes(day));
 }
 
-console.log(getDailySchedule('quest-recommended'))
+console.log(getDailySchedule('orders-daily'))
